@@ -1,0 +1,14 @@
+.bundle/
+.rbx
+*.rbc
+log/*.log
+pkg/
+spec/dummy/db/*.sqlite3
+spec/dummy/log/*.log
+spec/dummy/tmp/
+Gemfile.lock
+gemfiles/*.lock
+spec/generators/tmp
+.rvmrc
+*.swp
+.idea

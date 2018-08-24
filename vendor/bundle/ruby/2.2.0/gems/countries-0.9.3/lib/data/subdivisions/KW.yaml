@@ -1,0 +1,32 @@
+---
+AH:
+  name: "Al Ahmadi"
+  names:
+    - Ahmadi
+FA:
+  name: "Al Farwaniyah"
+  names:
+    - Farwaniyah
+HA:
+  name: Hawalli
+  names:
+    - Hawalli
+JA:
+  name: "Al Jahrah"
+  names:
+    - "Al Jahra"
+    - Jahra
+    - Jahrah
+    - al-Jahra
+    - al-Jahraʿ
+KU:
+  name: "Al Kuwayt"
+  names:
+    - Capital
+    - Koweit
+    - Kuwait
+    - Kuwayt
+    - al-Kuwayt
+MU:
+  name: "Mubarak al-Kabir"
+  names: "Mubarak al-Kabir"

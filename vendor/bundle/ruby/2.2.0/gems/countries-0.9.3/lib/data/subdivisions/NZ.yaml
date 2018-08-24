@@ -1,0 +1,53 @@
+---
+AUK:
+  name: Auckland
+  names: Auckland
+BOP:
+  name: "Bay of Plenty"
+  names: "Bay of Plenty"
+CAN:
+  name: Canterbury
+  names: Canterbury
+GIS:
+  name: Gisborne
+  names: Gisborne
+HKB:
+  name: "Hawkes's Bay"
+  names: "Hawkes's Bay"
+MBH:
+  name: Marlborough
+  names: Marlborough
+MWT:
+  name: Manawatu-Wanganui
+  names:
+    - Wanganui-Manawatu
+NSN:
+  name: Nelson
+  names: Nelson
+NTL:
+  name: Northland
+  names: Northland
+OTA:
+  name: Otago
+  names: Otago
+STL:
+  name: Southland
+  names: Southland
+TAS:
+  name: Tasman
+  names: Tasman
+TKI:
+  name: Taranaki
+  names: Taranaki
+WGN:
+  name: Wellington
+  names: Wellington
+WKO:
+  name: Waikato
+  names: Waikato
+WTC:
+  name: "West Coast"
+  names: "West Coast"
+X1~:
+  name: "Chatham  Islands"
+  names: "Chatham  Islands"

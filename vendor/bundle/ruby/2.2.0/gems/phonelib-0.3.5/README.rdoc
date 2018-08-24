@@ -1,0 +1,154 @@
+== Phonelib
+
+{<img src="https://travis-ci.org/daddyz/phonelib.png?branch=master" alt="Build Status" />}[http://travis-ci.org/daddyz/phonelib]
+{<img src="https://badge.fury.io/rb/phonelib.png" alt="Gem Version" />}[http://badge.fury.io/rb/phonelib]
+{<img src="https://codeclimate.com/github/daddyz/phonelib.png" />}[https://codeclimate.com/github/daddyz/phonelib]
+
+Phonelib is a gem allowing you to validate phone number. All validations are based on {Google libphonenumber}[http://code.google.com/p/libphonenumber/].
+Currently it can make basic validations and formatting to e164 international number format and national number format with prefix.
+But it still doesn't include all Google's library functionality.
+
+== Information
+
+=== RDoc
+
+RDoc documentation can be found here
+http://rubydoc.info/gems/phonelib/frames
+
+=== Bug reports
+
+If you discover a problem with Phonelib gem, let us know about it.
+https://github.com/daddyz/phonelib/issues
+
+=== Example application
+
+You can see an example of ActiveRecord validation by phonelib working in test/dummy application of this gem
+
+== Getting started
+
+Phonelib was written and tested on Rails >= 3.1. You can install it by adding in to your Gemfile with:
+
+  gem 'phonelib'
+
+Run the bundle command to install it.
+
+To set the default country (country names are {ISO 3166-1 Alpha-2}[http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2] codes), create a initializer in <tt>config/initializers/phonelib.rb</tt>:
+
+  Phonelib.default_country = "CN"
+
+=== ActiveRecord Integration
+
+This gem adds validator for active record.
+Basic usage:
+
+  validates :attribute, phone: true
+
+This will enable Phonelib validator for field "attribute". This validator checks that passed value is valid phone number.
+Please note that passing blank value also fails.
+
+Additional options:
+
+  validates :attribute, phone: { possible: true, allow_blank: true, types: [:voip, :mobile] }
+
+<tt>possible: true</tt> - enables validation to check whether the passed number is a possible phone number (not strict check).
+Refer to {Google libphonenumber}[http://code.google.com/p/libphonenumber/] for more information on it.
+
+<tt>allow_blank: true</tt> - when no value passed then validation passes
+
+<tt>types: :mobile</tt> or <tt>types: [:voip, :mobile]</tt> - allows to validate against specific phone types patterns,
+if mixed with <tt>possible</tt> will check if number is possible for specified type
+
+=== Basic usage
+
+To check if phone number is valid simply run:
+
+  Phonelib.valid?('123456789') # returns true or false
+
+Additional methods:
+
+  Phonelib.valid? '123456789'      # checks if passed value is valid number
+  Phonelib.invalid? '123456789'    # checks if passed value is invalid number
+  Phonelib.possible? '123456789'   # checks if passed value is possible number
+  Phonelib.impossible? '123456789' # checks if passed value is impossible number
+
+There is also option to check if provided phone is valid for specified country.
+Country should be specified as two letters country code (like "US" for United States).
+Country can be specified as String <tt>'US'</tt> or <tt>'us'</tt> as well as symbol <tt>:us</tt>.
+
+  Phonelib.valid_for_country? '123456789', 'XX'   # checks if passed value is valid number for specified country
+  Phonelib.invalid_for_country? '123456789', 'XX' # checks if passed value is invalid number for specified country
+
+Additionally you can run:
+
+  phone = Phonelib.parse('123456789')
+
+Returned value is object of <tt>Phonelib::Phone</tt> class which have following methods:
+
+  # basic validation methods
+  phone.valid?
+  phone.invalid?
+  phone.possible?
+  phone.impossible?
+
+  # validations for countries
+  phone.valid_for_country? 'XX'
+  phone.invalid_for_country? 'XX'
+
+You can also fetch matched valid phone types
+
+  phone.types          # returns array of all valid types
+  phone.type           # returns first element from array of all valid types
+  phone.possible_types # returns array of all possible types
+
+Possible types:
+* <tt>:premium_rate</tt> - Premium Rate
+* <tt>:toll_free</tt> - Toll Free
+* <tt>:shared_cost</tt> - Shared Cost
+* <tt>:voip</tt> - VoIP
+* <tt>:personal_number</tt> - Personal Number
+* <tt>:pager</tt> - Pager
+* <tt>:uan</tt> - UAN
+* <tt>:voicemail</tt> - VoiceMail
+* <tt>:fixed_line</tt> - Fixed Line
+* <tt>:mobile</tt> - Mobile
+* <tt>:fixed_or_mobile</tt> - Fixed Line or Mobile (if both mobile and fixed pattern matches)
+
+Or you can get human representation of matched types
+
+  phone.human_types # return array of human representations of valid types
+  phone.human_type  # return human representation of first valid type
+
+Also you can fetch all matched countries
+
+  phone.countries # returns array of all matched countries
+  phone.country   # returns first element from array of all matched countries
+
+Also it is possible to get formatted phone number
+
+  phone.international # returns formatted e164 international phone number
+  phone.national      # returns formatted national number with country prefix
+
+Phone class has following attributes
+
+  phone.original        # string that was passed as phone number
+  phone.sanitized       # sanitized phone number (only digits left)
+
+=== How it works
+
+Gem includes data from Google libphonenumber which has regex patterns for validations.
+Valid patterns are more specific to phone type and country.
+Possible patterns as usual are patterns with number of digits in number.
+
+=== Development and tests
+
+Everyone can do whatever he wants, the only limit is your imagination.
+Just don't forget to write test before the pull request.
+In order to run test without Rails functionality simply use
+
+  bundle exec rake spec
+
+If you want to run including Rails environment, you need to set <tt>BUNDLE_GEMFILE</tt> while running the spec task, for example:
+
+  BUNDLE_GEMFILE=gemfiles/Gemfile.rails-3.2.x bundle exec rake spec
+
+Gemfiles can be found in <tt>gemfiles</tt> folder, there are gemfiles for Rails 3.1, 3.2 and 4.

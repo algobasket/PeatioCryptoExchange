@@ -1,0 +1,69 @@
+---
+BB:
+  name: Brandenburg
+  names:
+    - Brandenbourg
+    - Brandenburgo
+BE:
+  name: Berlin
+  names:
+    - Berlín
+BW:
+  name: Baden-Württemberg
+  names: Baden-Württemberg
+BY:
+  name: Bayern
+  names:
+    - Bavière
+    - Bayern
+    - Bavaria
+HB:
+  name: Bremen
+  names:
+    - Brème
+HE:
+  name: Hessen
+  names:
+    - Hessen
+    - Hesse
+HH:
+  name: Hamburg
+  names:
+    - Amburgo
+    - Hambourg
+    - Hamburgo
+MV:
+  name: Mecklenburg-Vorpommern
+  names:
+    - Mecklenburg-Vorpommern
+NI:
+  name: Niedersachsen
+  names:
+    - Niedersachsen
+NW:
+  name: Nordrhein-Westfalen
+  names:
+    - Nordrhein-Westfalen
+    - Rhénanie-Westphalie
+RP:
+  name: Rheinland-Pfalz
+  names:
+    - Rheinland-Pfalz
+    - Rhénanie-Palatinat
+SH:
+  name: Schleswig-Holstein
+  names: Schleswig-Holstein
+SL:
+  name: Saarland
+  names: Saarland
+SN:
+  name: Sachsen
+  names:
+    - Sachsen
+ST:
+  name: Sachsen-Anhalt
+  names: Sachsen-Anhalt
+TH:
+  name: Thüringen
+  names:
+    - Thüringen

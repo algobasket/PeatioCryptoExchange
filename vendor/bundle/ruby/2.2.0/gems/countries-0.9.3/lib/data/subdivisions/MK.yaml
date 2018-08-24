@@ -1,0 +1,257 @@
+---
+AD:
+  name: "Aerodrom *"
+  names: "Aerodrom *"
+AJ:
+  name: "Saraj *"
+  names: "Saraj *"
+AR:
+  name: Aracinovo
+  names: Aracinovo
+AV:
+  name: Kavadarci
+  names: Kavadarci
+BG:
+  name: Bogdanci
+  names: Bogdanci
+BN:
+  name: Brvenica
+  names: Brvenica
+BR:
+  name: Berovo
+  names: Berovo
+BS:
+  name: Bosilovo
+  names: Bosilovo
+BU:
+  name: "Butel *"
+  names: "Butel *"
+CA:
+  name: Caška
+  names: Caška
+CE:
+  name: "Centar *"
+  names: "Centar *"
+CH:
+  name: Cešinovo-Obleševo
+  names: Cešinovo-Obleševo
+CI:
+  name: "Cair *"
+  names: "Cair *"
+CS:
+  name: "Cucer Sandevo"
+  names: "Cucer Sandevo"
+CZ:
+  name: "Centar Župa"
+  names: "Centar Župa"
+DA:
+  name: Debarca
+  names: Debarca
+DB:
+  name: Debar
+  names: Debar
+DE:
+  name: Dolneni
+  names: Dolneni
+DK:
+  name: "Demir Kapija"
+  names: "Demir Kapija"
+DL:
+  name: Delcevo
+  names: Delcevo
+DM:
+  name: "Demir Hisar"
+  names:
+    - Murgaševo
+DR:
+  name: Drugovo
+  names: Drugovo
+ET:
+  name: Tetovo
+  names: Tetovo
+GB:
+  name: "Gazi Baba *"
+  names: "Gazi Baba *"
+GP:
+  name: "Gjorce Petrov *"
+  names: "Gjorce Petrov *"
+GR:
+  name: Gradsko
+  names: Gradsko
+GT:
+  name: Gostivar
+  names: Gostivar
+GV:
+  name: Gevgelija
+  names: Gevgelija
+IL:
+  name: Ilinden
+  names: Ilinden
+JG:
+  name: Jegunovce
+  names: Jegunovce
+KB:
+  name: Karbinci
+  names: Karbinci
+KG:
+  name: Krivogaštani
+  names: Krivogaštani
+KH:
+  name: Kicevo
+  names: Kicevo
+KN:
+  name: Konce
+  names: Konce
+KS:
+  name: Kruševo
+  names: Kruševo
+KX:
+  name: "Karpoš *"
+  names: "Karpoš *"
+KY:
+  name: Kratovo
+  names: Kratovo
+KZ:
+  name: "Kriva Palanka"
+  names: "Kriva Palanka"
+LI:
+  name: Lipkovo
+  names: Lipkovo
+LO:
+  name: Lozovo
+  names: Lozovo
+MD:
+  name: "Makedonski Brod"
+  names: "Makedonski Brod"
+MG:
+  name: Mogila
+  names: Mogila
+MK:
+  name: "Makedonska Kamenica"
+  names: "Makedonska Kamenica"
+MR:
+  name: Mavrovo-i-Rostuša
+  names: Mavrovo-i-Rostuša
+NA:
+  name: "Staro Nagoricane"
+  names: "Staro Nagoricane"
+NG:
+  name: Negotino
+  names: Negotino
+NI:
+  name: Vinica
+  names: Vinica
+NS:
+  name: "Novo Selo"
+  names: "Novo Selo"
+NV:
+  name: Novaci
+  names: Novaci
+OC:
+  name: Kocani
+  names: Kocani
+OD:
+  name: Ohrid
+  names: Ohrid
+OS:
+  name: Oslomej
+  names: Oslomej
+PE:
+  name: Petrovec
+  names: Petrovec
+PH:
+  name: Pehcevo
+  names: Pehcevo
+PN:
+  name: Plasnica
+  names: Plasnica
+PP:
+  name: Prilep
+  names: Prilep
+PT:
+  name: Probištip
+  names: Probištip
+RE:
+  name: Resen
+  names: Resen
+RM:
+  name: Rosoman
+  names: Rosoman
+RN:
+  name: Rankovce
+  names: Rankovce
+RU:
+  name: Strumica
+  names: Strumica
+RV:
+  name: Radoviš
+  names: Radoviš
+SD:
+  name: Dojran
+  names: Dojran
+SL:
+  name: "Sveti Nikole"
+  names: "Sveti Nikole"
+SO:
+  name: "Šuto Orizari *"
+  names: "Šuto Orizari *"
+SS:
+  name: Sopište
+  names: Sopište
+ST:
+  name: Štip
+  names: Štip
+SU:
+  name: Studenicani
+  names: Studenicani
+TL:
+  name: Bitola
+  names: Bitola
+TR:
+  name: Tearce
+  names: Tearce
+UG:
+  name: Struga
+  names: Struga
+UM:
+  name: Kumanovo
+  names: Kumanovo
+VA:
+  name: Valandovo
+  names: Valandovo
+VC:
+  name: Vraneštica
+  names: Vraneštica
+VD:
+  name: "Kisela Voda *"
+  names: "Kisela Voda *"
+VE:
+  name: Veles
+  names: Veles
+VH:
+  name: Vrapcište
+  names: Vrapcište
+VJ:
+  name: Bogovinje
+  names: Bogovinje
+VL:
+  name: Vasilevo
+  names: Vasilevo
+VV:
+  name: Vevcani
+  names: Vevcani
+X1~:
+  name: Skopje
+  names: Skopje
+ZA:
+  name: Zajas
+  names: Zajas
+ZE:
+  name: Želino
+  names: Želino
+ZK:
+  name: Zelenikovo
+  names: Zelenikovo
+ZR:
+  name: Zrnovci
+  names: Zrnovci

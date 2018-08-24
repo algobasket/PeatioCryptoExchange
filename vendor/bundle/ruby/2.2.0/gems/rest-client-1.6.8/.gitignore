@@ -1,0 +1,8 @@
+.idea
+.rvmrc
+doc
+rdoc
+pkg
+*.gem
+scratchpad.rb
+/Gemfile.lock

@@ -1,0 +1,47 @@
+---
+AL:
+  name: Aileu
+  names: Aileu
+AN:
+  name: Ainaro
+  names: Ainaro
+BA:
+  name: Baucau
+  names:
+    - Baukau
+BO:
+  name: Bobonaro
+  names: Bobonaro
+CO:
+  name: "Cova Lima"
+  names:
+    - Kova-Lima
+DI:
+  name: Dili
+  names: Dili
+ER:
+  name: Ermera
+  names: Ermera
+LA:
+  name: Lautem
+  names: Lautem
+LI:
+  name: Liquiça
+  names:
+    - Likisia
+MF:
+  name: Manufahi
+  names: Manufahi
+MT:
+  name: Manatuto
+  names: Manatuto
+OE:
+  name: Oecussi
+  names:
+    - Ambeno
+    - Ambino
+    - Oecusse
+VI:
+  name: Viqueque
+  names:
+    - Vikeke

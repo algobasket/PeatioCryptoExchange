@@ -1,0 +1,251 @@
+ar:
+  date:
+    abbr_day_names:
+    - الأحد
+    - الإثنين
+    - الثلاثاء
+    - الأربعاء
+    - الخميس
+    - الجمعة
+    - السبت
+    abbr_month_names:
+    -
+    - يناير
+    - فبراير
+    - مارس
+    - ابريل
+    - مايو
+    - يونيو
+    - يوليو
+    - اغسطس
+    - سبتمبر
+    - اكتوبر
+    - نوفمبر
+    - ديسمبر
+    day_names:
+    - الأحد
+    - الإثنين
+    - الثلاثاء
+    - الأربعاء
+    - الخميس
+    - الجمعة
+    - السبت
+    formats:
+      default: ! '%Y-%m-%d'
+      long: ! '%B %e, %Y'
+      short: ! '%e %b'
+    month_names:
+    -
+    - يناير
+    - فبراير
+    - مارس
+    - ابريل
+    - مايو
+    - يونيو
+    - يوليو
+    - اغسطس
+    - سبتمبر
+    - اكتوبر
+    - نوفمبر
+    - ديسمبر
+    order:
+    - :day
+    - :month
+    - :year
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        zero: ! '%{count} ساعات'
+        one: حوالي ساعة واحدة
+        two: ! '%{count} ساعات'
+        few: ! '%{count} ساعات'
+        many: ! '%{count} ساعات'
+        other: ! '%{count} ساعات'
+      about_x_months:
+        zero: ! '%{count} أشهر'
+        one: حوالي شهر واحد
+        two: ! '%{count} أشهر'
+        few: ! '%{count} أشهر'
+        many: ! '%{count} أشهر'
+        other: ! '%{count} أشهر'
+      about_x_years:
+        zero: ! '%{count} سنوات'
+        one: حوالي سنة
+        two: ! '%{count} سنوات'
+        few: ! '%{count} سنوات'
+        many: ! '%{count} سنوات'
+        other: ! '%{count} سنوات'
+      almost_x_years:
+        zero: ما يقرب من %{count} سنة
+        one: تقريبا سنة واحدة
+        two: ما يقرب من %{count} سنة
+        few: ما يقرب من %{count} سنة
+        many: ما يقرب من %{count} سنة
+        other: ما يقرب من %{count} سنة
+      half_a_minute: نصف دقيقة
+      less_than_x_minutes:
+        zero: ! '%{count} دقائق'
+        one: أقل من دقيقة
+        two: ! '%{count} دقائق'
+        few: ! '%{count} دقائق'
+        many: ! '%{count} دقائق'
+        other: ! '%{count} دقائق'
+      less_than_x_seconds:
+        zero: ! '%{count} ثوان'
+        one: أقل من ثانية
+        two: ! '%{count} ثوان'
+        few: ! '%{count} ثوان'
+        many: ! '%{count} ثوان'
+        other: ! '%{count} ثوان'
+      over_x_years:
+        zero: ! '%{count} سنوات'
+        one: أكثر من سنة
+        two: ! '%{count} سنوات'
+        few: ! '%{count} سنوات'
+        many: ! '%{count} سنوات'
+        other: ! '%{count} سنوات'
+      x_days:
+        zero: ! '%{count} أيام'
+        one: يوم واحد
+        two: ! '%{count} أيام'
+        few: ! '%{count} أيام'
+        many: ! '%{count} أيام'
+        other: ! '%{count} أيام'
+      x_minutes:
+        zero: ! '%{count} دقائق'
+        one: دقيقة واحدة
+        two: ! '%{count} دقائق'
+        few: ! '%{count} دقائق'
+        many: ! '%{count} دقائق'
+        other: ! '%{count} دقائق'
+      x_months:
+        zero: ! '%{count} أشهر'
+        one: شهر واحد
+        two: ! '%{count} أشهر'
+        few: ! '%{count} أشهر'
+        many: ! '%{count} أشهر'
+        other: ! '%{count} أشهر'
+      x_seconds:
+        zero: ! '%{count} ثوان'
+        one: ثانية واحدة
+        two: ! '%{count} ثوان'
+        few: ! '%{count} ثوان'
+        many: ! '%{count} ثوان'
+        other: ! '%{count} ثوان'
+    prompts:
+      day: اليوم
+      hour: ساعة
+      minute: دقيقة
+      month: الشهر
+      second: ثانية
+      year: السنة
+  errors: &errors
+    format: ! '%{attribute} %{message}'
+    messages:
+      accepted: يجب أن تقبل
+      blank: فارغ، يرجى ملء الحقل
+      confirmation: لا تتوافق مع التأكيد
+      empty: فارغ، يرجى ملء الحقل
+      equal_to: يجب أن يساوي %{count}
+      even: يجب أن يكون زوجي
+      exclusion: محجوز
+      greater_than: يجب أن يكون أكبر من %{count}
+      greater_than_or_equal_to: يجب أن يكون أكبر من أو يساوي %{count}
+      inclusion: ليس خيارا مقبولا
+      invalid: غير معرف أو محدد
+      less_than: يجب أن يكون أصغر من %{count}
+      less_than_or_equal_to: يجب أن يكون أصغر من أو يساوي %{count}
+      not_a_number: ليس رقما
+      not_an_integer: يجب أن يكون صحيحا
+      odd: يجب أن يكون فردي
+      record_invalid: ! '%{errors} فشل التحقق من صحة'
+      taken: غير متوفر (مستخدم)
+      too_long: أطول من اللازم (الحد الأقصى هو %{count})
+      too_short: أقصر من اللازم (الحد الأدنى هو %{count})
+      wrong_length: بطول غير مناسب (يجب أن يكون %{count})
+    template:
+      body: ! 'يرجى التحقق من الحقول التالية:'
+      header:
+        zero: ! 'ليس بالامكان حفظ %{model}: %{count} أخطاء.'
+        one: ! 'ليس بالامكان حفظ %{model}: خطأ واحد.'
+        two: ! 'ليس بالامكان حفظ %{model}: %{count} أخطاء.'
+        few: ! 'ليس بالامكان حفظ %{model}: %{count} أخطاء.'
+        many: ! 'ليس بالامكان حفظ %{model}: %{count} أخطاء.'
+        other: ! 'ليس بالامكان حفظ %{model}: %{count} أخطاء.'
+  helpers:
+    select:
+      prompt: الرجاء اختيار
+    submit:
+      create: ! '%{model} إنشاء'
+      submit: ! '%{model} حفظ'
+      update: ! '%{model} نموذج'
+  number:
+    currency:
+      format:
+        delimiter: ! ','
+        format: ! '%u%n'
+        precision: 2
+        separator: .
+        significant: false
+        strip_insignificant_zeros: false
+        unit: $
+    format:
+      delimiter: ! ','
+      precision: 3
+      separator: .
+      significant: false
+      strip_insignificant_zeros: false
+    human:
+      decimal_units:
+        format: ! '%n %u'
+        units:
+          billion: مليار
+          million: مليون
+          quadrillion: الكدريليون رقم
+          thousand: ألف
+          trillion: تريليون
+          unit: ''
+      format:
+        delimiter: ''
+        precision: 3
+        significant: true
+        strip_insignificant_zeros: true
+      storage_units:
+        format: ! '%n %u'
+        units:
+          byte:
+            zero: Bytes
+            one: Byte
+            two: Bytes
+            few: Bytes
+            many: Bytes
+            other: Bytes
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        delimiter: ''
+    precision:
+      format:
+        delimiter: ''
+  support:
+    array:
+      last_word_connector: ! ', و '
+      two_words_connector: ! ' و '
+      words_connector: ! ', '
+  time:
+    am: صباحا
+    formats:
+      default: ! '%a %b %d %H:%M:%S %Z %Y'
+      long: ! '%B %d, %Y %H:%M'
+      short: ! '%d %b %H:%M'
+    pm: مساءا
+  # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
+  activemodel:
+    errors:
+      <<: *errors
+  activerecord:
+    errors:
+      <<: *errors

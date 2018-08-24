@@ -1,0 +1,83 @@
+---
+? "01"
+:
+  name: Andrijevica
+  names: Andrijevica
+? "02"
+:
+  name: Bar
+  names: Bar
+? "03"
+:
+  name: Berane
+  names: Berane
+? "04"
+:
+  name: "Bijelo Polje"
+  names: "Bijelo Polje"
+? "05"
+:
+  name: Budva
+  names: Budva
+? "06"
+:
+  name: Cetinje
+  names: Cetinje
+? "07"
+:
+  name: Danilovgrad
+  names: Danilovgrad
+08:
+  name: Herceg-Novi
+  names: Herceg-Novi
+09:
+  name: Kolašin
+  names: Kolašin
+? "10"
+:
+  name: Kotor
+  names: Kotor
+? "11"
+:
+  name: Mojkovac
+  names: Mojkovac
+? "12"
+:
+  name: Nikšic´
+  names: Nikšic´
+? "13"
+:
+  name: Plav
+  names: Plav
+? "14"
+:
+  name: Pljevlja
+  names: Pljevlja
+? "15"
+:
+  name: Plužine
+  names: Plužine
+? "16"
+:
+  name: Podgorica
+  names: Podgorica
+? "17"
+:
+  name: Rožaje
+  names: Rožaje
+? "18"
+:
+  name: Šavnik
+  names: Šavnik
+? "19"
+:
+  name: Tivat
+  names: Tivat
+? "20"
+:
+  name: Ulcinj
+  names: Ulcinj
+? "21"
+:
+  name: Žabljak
+  names: Žabljak

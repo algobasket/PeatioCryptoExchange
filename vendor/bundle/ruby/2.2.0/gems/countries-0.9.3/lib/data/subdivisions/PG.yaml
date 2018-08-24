@@ -1,0 +1,81 @@
+---
+CPK:
+  name: Chimbu
+  names:
+    - Chimbu
+    - Simbúa
+CPM:
+  name: Central
+  names:
+    - "Papua Central"
+EBR:
+  name: "East New Britain"
+  names:
+    - "New Britain East"
+EHG:
+  name: "Eastern Highlands"
+  names:
+    - "Highlands East"
+EPW:
+  name: Enga
+  names: Enga
+ESW:
+  name: "East Sepik"
+  names:
+    - "Sepik East"
+GPK:
+  name: Gulf
+  names:
+    - "Papua Gulf"
+MBA:
+  name: "Milne Bay"
+  names: "Milne Bay"
+MPL:
+  name: Morobe
+  names: Morobe
+MPM:
+  name: Madang
+  names: Madang
+MRL:
+  name: Manus
+  names:
+    - "Great Admiralty Island"
+    - Mwanus
+NCD:
+  name: "National Capital District (Port Moresby)"
+  names: "National Capital District (Port Moresby)"
+NIK:
+  name: "New Ireland"
+  names:
+    - "Niu Ailan"
+NPP:
+  name: Northern
+  names:
+    - Northern
+NSA:
+  name: "North Solomons"
+  names:
+    - Bougainville
+    - Mekamui
+    - "North Solomons"
+SAN:
+  name: "Sandaun [West Sepik]"
+  names:
+    - "West Sepik"
+SHM:
+  name: "Southern Highlands"
+  names:
+    - "Highlands South"
+WBK:
+  name: "West New Britain"
+  names:
+    - "New Britain West"
+WHM:
+  name: "Western Highlands"
+  names:
+    - "Highlands West"
+WPD:
+  name: Western
+  names:
+    - "Papua West"
+    - Western

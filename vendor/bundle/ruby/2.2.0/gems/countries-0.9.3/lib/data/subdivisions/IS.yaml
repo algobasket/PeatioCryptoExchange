@@ -1,0 +1,37 @@
+---
+? "0"
+:
+  name: Reykjavík
+  names: Reykjavík
+? "1"
+:
+  name: "Höfuðborgarsvæði utan Reykjavíkur"
+  names: "Höfuðborgarsvæði utan Reykjavíkur"
+? "2"
+:
+  name: Suðurnes
+  names: Suðurnes
+? "3"
+:
+  name: Vesturland
+  names: Vesturland
+? "4"
+:
+  name: Vestfirðir
+  names: Vestfirðir
+? "5"
+:
+  name: "Norðurland vestra"
+  names: "Norðurland vestra"
+? "6"
+:
+  name: "Norðurland eystra"
+  names: "Norðurland eystra"
+? "7"
+:
+  name: Austurland
+  names: Austurland
+? "8"
+:
+  name: Suðurland
+  names: Suðurland

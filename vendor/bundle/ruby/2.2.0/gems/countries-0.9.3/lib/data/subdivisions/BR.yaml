@@ -1,0 +1,82 @@
+---
+AC:
+  name: Acre
+  names: Acre
+AL:
+  name: Alagoas
+  names: Alagoas
+AM:
+  name: Amazonas
+  names: Amazonas
+AP:
+  name: Amapá
+  names: Amapá
+BA:
+  name: Bahia
+  names: Bahia
+CE:
+  name: Ceará
+  names: Ceará
+DF:
+  name: "Distrito Federal"
+  names: "Distrito Federal"
+ES:
+  name: "Espírito Santo"
+  names: "Espírito Santo"
+GO:
+  name: Goiás
+  names: Goiás
+MA:
+  name: Maranhão
+  names: Maranhão
+MG:
+  name: "Minas Gerais"
+  names: "Minas Gerais"
+MS:
+  name: "Mato Grosso do Sul"
+  names: "Mato Grosso do Sul"
+MT:
+  name: "Mato Grosso"
+  names: "Mato Grosso"
+PA:
+  name: Pará
+  names: Pará
+PB:
+  name: Paraíba
+  names: Paraíba
+PE:
+  name: Pernambuco
+  names: Pernambuco
+PI:
+  name: Piauí
+  names: Piauí
+PR:
+  name: Paraná
+  names: Paraná
+RJ:
+  name: "Rio de Janeiro"
+  names: "Rio de Janeiro"
+RN:
+  name: "Rio Grande do Norte"
+  names: "Rio Grande do Norte"
+RO:
+  name: Rondônia
+  names: Rondônia
+RR:
+  name: Roraima
+  names: Roraima
+RS:
+  name: "Rio Grande do Sul"
+  names: "Rio Grande do Sul"
+SC:
+  name: "Santa Catarina"
+  names: "Santa Catarina"
+SE:
+  name: Sergipe
+  names: Sergipe
+SP:
+  name: "São Paulo"
+  names: "São Paulo"
+TO:
+  name: Tocantins
+  names: Tocantins

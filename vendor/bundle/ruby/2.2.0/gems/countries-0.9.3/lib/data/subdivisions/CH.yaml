@@ -1,0 +1,116 @@
+---
+AG:
+  name: "Aargau (de)"
+  names:
+    - Argovie
+AI:
+  name: "Appenzell Innerrhoden (de)"
+  names: "Appenzell Innerrhoden (de)"
+AR:
+  name: "Appenzell Ausserrhoden (de)"
+  names:
+    - "Appenzell-Ausser Rhoden"
+BE:
+  name: "Bern (de)"
+  names:
+    - Berne
+BL:
+  name: "Basel-Landschaft (de)"
+  names:
+    - Bâle-Campagne
+BS:
+  name: "Basel-Stadt (de)"
+  names:
+    - Basel
+    - Basilea
+    - Basle
+    - Basel-Stadt
+    - Bâle-Ville
+FR:
+  name: "Fribourg (fr)"
+  names:
+    - Freiburg
+GE:
+  name: "Genève (fr)"
+  names:
+    - Ginevra
+    - Genève
+    - Genf
+    - Ginebra
+GL:
+  name: "Glarus (de)"
+  names:
+    - Glaris
+GR:
+  name: "Graubünden (de)"
+  names:
+    - Grigioni
+    - Grisons
+JU:
+  name: "Jura (fr)"
+  names: "Jura (fr)"
+LU:
+  name: "Luzern (de)"
+  names:
+    - Lucerna
+    - Lucerne
+NE:
+  name: "Neuchâtel (fr)"
+  names:
+    - Neuenburg
+NW:
+  name: "Nidwalden (de)"
+  names:
+    - Nidwald
+OW:
+  name: "Obwalden (de)"
+  names:
+    - Obwald
+SG:
+  name: "Sankt Gallen (de)"
+  names:
+    - "Saint Galle"
+    - "Sankt Gallen"
+    - Saint-Gall
+SH:
+  name: "Schaffhausen (de)"
+  names:
+    - Schaffhouse
+SO:
+  name: "Solothurn (de)"
+  names:
+    - Soleure
+SZ:
+  name: "Schwyz (de)"
+  names: "Schwyz (de)"
+TG:
+  name: "Thurgau (de)"
+  names:
+    - Thurgovie
+TI:
+  name: "Ticino (it)"
+  names:
+    - Tessin
+    - Tessin
+UR:
+  name: "Uri (de)"
+  names: "Uri (de)"
+VD:
+  name: "Vaud (fr)"
+  names:
+    - Waadt
+VS:
+  name: "Valais (fr)"
+  names:
+    - Vallese
+    - Wallis
+ZG:
+  name: "Zug (de)"
+  names:
+    - Zoug
+ZH:
+  name: "Zürich (de)"
+  names:
+    - Zurigo
+    - Zürich
+    - Zurich

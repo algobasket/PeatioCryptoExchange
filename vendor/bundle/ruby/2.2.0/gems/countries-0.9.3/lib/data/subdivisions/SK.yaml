@@ -1,0 +1,25 @@
+---
+BC:
+  name: "Banskobystrický kraj"
+  names: "Banskobystrický kraj"
+BL:
+  name: "Bratislavský kraj"
+  names: "Bratislavský kraj"
+KI:
+  name: "Košický kraj"
+  names: "Košický kraj"
+NI:
+  name: "Nitriansky kraj"
+  names: "Nitriansky kraj"
+PV:
+  name: "Prešovský kraj"
+  names: "Prešovský kraj"
+TA:
+  name: "Trnavský kraj"
+  names: "Trnavský kraj"
+TC:
+  name: "Trenciansky kraj"
+  names: "Trenciansky kraj"
+ZI:
+  name: "Žilinský kraj"
+  names: "Žilinský kraj"

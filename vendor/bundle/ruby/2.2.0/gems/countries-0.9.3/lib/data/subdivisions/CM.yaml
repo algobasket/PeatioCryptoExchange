@@ -1,0 +1,34 @@
+---
+AD:
+  name: Adamaoua
+  names:
+    - Adamawa
+CE:
+  name: Centre
+  names: Centre
+EN:
+  name: "Far North"
+  names: "Far North"
+ES:
+  name: East
+  names: East
+LT:
+  name: Littoral
+  names: Littoral
+? "NO"
+:
+  name: North
+  names:
+    - Bénoué
+NW:
+  name: North-West
+  names: North-West
+OU:
+  name: West
+  names: West
+SU:
+  name: South
+  names: South
+SW:
+  name: South-West
+  names: South-West

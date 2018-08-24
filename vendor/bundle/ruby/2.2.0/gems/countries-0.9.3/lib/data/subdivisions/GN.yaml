@@ -1,0 +1,104 @@
+---
+BE:
+  name: Beyla
+  names: Beyla
+BF:
+  name: Boffa
+  names: Boffa
+BK:
+  name: Boké
+  names: Boké
+C:
+  name: Conakry
+  names: Conakry
+CO:
+  name: Coyah
+  names: Coyah
+DB:
+  name: Dabola
+  names: Dabola
+DI:
+  name: Dinguiraye
+  names: Dinguiraye
+DL:
+  name: Dalaba
+  names: Dalaba
+DU:
+  name: Dubréka
+  names: Dubréka
+FA:
+  name: Faranah
+  names: Faranah
+FO:
+  name: Forécariah
+  names:
+    - Forécaria
+FR:
+  name: Fria
+  names: Fria
+GA:
+  name: Gaoual
+  names: Gaoual
+GU:
+  name: Guékédou
+  names: Guékédou
+KA:
+  name: Kankan
+  names: Kankan
+KB:
+  name: Koubia
+  names: Koubia
+KD:
+  name: Kindia
+  names: Kindia
+KE:
+  name: Kérouané
+  names: Kérouané
+KN:
+  name: Koundara
+  names: Koundara
+KO:
+  name: Kouroussa
+  names: Kouroussa
+KS:
+  name: Kissidougou
+  names: Kissidougou
+LA:
+  name: Labé
+  names: Labé
+LE:
+  name: Lélouma
+  names: Lélouma
+LO:
+  name: Lola
+  names: Lola
+MC:
+  name: Macenta
+  names: Macenta
+MD:
+  name: Mandiana
+  names: Mandiana
+ML:
+  name: Mali
+  names: Mali
+MM:
+  name: Mamou
+  names: Mamou
+NZ:
+  name: Nzérékoré
+  names: Nzérékoré
+PI:
+  name: Pita
+  names: Pita
+SI:
+  name: Siguiri
+  names: Siguiri
+TE:
+  name: Télimélé
+  names: Télimélé
+TO:
+  name: Tougué
+  names: Tougué
+YO:
+  name: Yomou
+  names: Yomou

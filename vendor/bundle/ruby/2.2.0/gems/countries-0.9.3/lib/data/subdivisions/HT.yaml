@@ -1,0 +1,31 @@
+---
+AR:
+  name: Artibonite
+  names:
+    - LʿArtibonite
+CE:
+  name: Centre
+  names: Centre
+GA:
+  name: Grande-Anse
+  names:
+    - "Grande Anse"
+ND:
+  name: Nord
+  names: Nord
+NE:
+  name: Nord-Est
+  names: Nord-Est
+? "NO"
+:
+  name: Nord-Ouest
+  names: Nord-Ouest
+OU:
+  name: Ouest
+  names: Ouest
+SD:
+  name: Sud
+  names: Sud
+SE:
+  name: Sud-Est
+  names: Sud-Est

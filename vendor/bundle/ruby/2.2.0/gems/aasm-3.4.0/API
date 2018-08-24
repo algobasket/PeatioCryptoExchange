@@ -1,0 +1,34 @@
+
+Overwrite method to read the current state. Used to provide another storage mechanism,
+different from the standard Rails read_attribute method.
+
+  class MyClass
+    include AASM
+
+    def aasm_read_state
+      # retrieve the current state manually
+    end
+  end
+
+
+Overwrite method to write the current state (and actually persist it). Used to provide
+another storage mechanism, different from the standard Rails write_attribute method.
+
+  class MyClass
+    include AASM
+
+    def aasm_write_state
+      # store and persist the current state manually
+    end
+  end
+
+
+Overwrite method to write the current state (without persisting it).
+
+  class MyClass
+    include AASM
+
+    def aasm_write_state_without_persistence
+      # store the current state manually
+    end
+  end

@@ -1,0 +1,53 @@
+---
+BB:
+  name: Bubanza
+  names: Bubanza
+BJ:
+  name: Bujumbura
+  names: Bujumbura
+BR:
+  name: Bururi
+  names: Bururi
+CA:
+  name: Cankuzo
+  names: Cankuzo
+CI:
+  name: Cibitoke
+  names: Cibitoke
+GI:
+  name: Gitega
+  names:
+    - Kitega
+KI:
+  name: Kirundo
+  names: Kirundo
+KR:
+  name: Karuzi
+  names:
+    - Karusi
+KY:
+  name: Kayanza
+  names: Kayanza
+MA:
+  name: Makamba
+  names: Makamba
+MU:
+  name: Muramvya
+  names:
+    - Muramuya
+MW:
+  name: Mwaro
+  names: Mwaro
+MY:
+  name: Muyinga
+  names:
+    - Muhinga
+NG:
+  name: Ngozi
+  names: Ngozi
+RT:
+  name: Rutana
+  names: Rutana
+RY:
+  name: Ruyigi
+  names: Ruyigi

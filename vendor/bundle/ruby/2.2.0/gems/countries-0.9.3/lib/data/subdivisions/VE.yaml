@@ -1,0 +1,78 @@
+---
+A:
+  name: "Distrito Federal"
+  names: "Distrito Federal"
+B:
+  name: Anzoátegui
+  names: Anzoátegui
+C:
+  name: Apure
+  names: Apure
+D:
+  name: Aragua
+  names: Aragua
+E:
+  name: Barinas
+  names: Barinas
+F:
+  name: Bolívar
+  names: Bolívar
+G:
+  name: Carabobo
+  names: Carabobo
+H:
+  name: Cojedes
+  names: Cojedes
+I:
+  name: Falcón
+  names: Falcón
+J:
+  name: Guárico
+  names: Guárico
+K:
+  name: Lara
+  names: Lara
+L:
+  name: Mérida
+  names: Mérida
+M:
+  name: Miranda
+  names: Miranda
+? "N"
+:
+  name: Monagas
+  names: Monagas
+O:
+  name: "Nueva Esparta"
+  names: "Nueva Esparta"
+P:
+  name: Portuguesa
+  names: Portuguesa
+R:
+  name: Sucre
+  names: Sucre
+S:
+  name: Táchira
+  names: Táchira
+T:
+  name: Trujillo
+  names: Trujillo
+U:
+  name: Yaracuy
+  names: Yaracuy
+V:
+  name: Zulia
+  names: Zulia
+W:
+  name: "Dependencias Federales"
+  names: "Dependencias Federales"
+X:
+  name: Vargas
+  names: Vargas
+? "Y"
+:
+  name: "Delta Amacuro"
+  names: "Delta Amacuro"
+Z:
+  name: Amazonas
+  names: Amazonas

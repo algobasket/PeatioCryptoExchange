@@ -1,0 +1,48 @@
+---
+AB:
+  name: Abkhazia
+  names:
+    - Abhasia
+AJ:
+  name: Ajaria
+  names:
+    - Achara
+    - Adzharia
+    - Adžaria
+GU:
+  name: Guria
+  names: Guria
+IM:
+  name: Imereti
+  names: Imereti
+KA:
+  name: Kakheti
+  names:
+    - Kaheti
+KK:
+  name: "Kvemo Kartli"
+  names: "Kvemo Kartli"
+MM:
+  name: Mtskheta-Mtianeti
+  names:
+    - Mcheta-Mtianeti
+RL:
+  name: "Racha-Lechkhumi [and] Kvemo Svaneti"
+  names:
+    - Racha
+    - "Racha-Lechkumi and Kverno Svaneti"
+SJ:
+  name: Samtskhe-Javakheti
+  names:
+    - Samche-Žavaheti
+SK:
+  name: "Shida Kartli"
+  names:
+    - "Šida Kartli"
+SZ:
+  name: "Samegrelo-Zemo Svaneti"
+  names: "Samegrelo-Zemo Svaneti"
+TB:
+  name: Tbilisi
+  names:
+    - Tiflis

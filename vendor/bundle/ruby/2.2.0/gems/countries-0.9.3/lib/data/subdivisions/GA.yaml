@@ -1,0 +1,39 @@
+---
+? "1"
+:
+  name: Estuaire
+  names: Estuaire
+? "2"
+:
+  name: Haut-Ogooué
+  names: Haut-Ogooué
+? "3"
+:
+  name: Moyen-Ogooué
+  names: Moyen-Ogooué
+? "4"
+:
+  name: Ngounié
+  names:
+    - Nʿgounié
+? "5"
+:
+  name: Nyanga
+  names: Nyanga
+? "6"
+:
+  name: Ogooué-Ivindo
+  names: Ogooué-Ivindo
+? "7"
+:
+  name: Ogooué-Lolo
+  names: Ogooué-Lolo
+? "8"
+:
+  name: Ogooué-Maritime
+  names: Ogooué-Maritime
+? "9"
+:
+  name: Woleu-Ntem
+  names:
+    - Woleu-Nʿtem

@@ -1,0 +1,21 @@
+rvm:
+  - 1.8.7
+  - 1.9.2
+  - 1.9.3
+  - 2.0.0
+  - 2.1.0
+  - ree
+  - jruby
+  - rbx
+gemfile:
+  - gemfiles/rails_3.0.gemfile
+  - gemfiles/rails_3.0_datamapper.gemfile
+  - gemfiles/rails_3.0_mongoid.gemfile
+services:
+  - mongodb
+matrix:
+  allow_failures:
+    - rvm: rbx
+notifications:
+  recipients:
+    - bryan@bryanrite.com

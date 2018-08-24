@@ -1,0 +1,15 @@
+Description:
+    Generates a daemon in lib/daemons
+
+Example:
+    rails generate daemon fraggle 
+
+    This will create:
+        lib/daemons/fraggle_ctl
+        lib/daemons/fraggle.rb
+    
+    Control the daemon with
+      % lib/daemons/fraggle_ctl start|stop|status
+    
+    Control all daemons by invoking:
+      % rake daemons:[start|stop|status]

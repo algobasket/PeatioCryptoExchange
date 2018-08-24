@@ -1,0 +1,31 @@
+---
+AS:
+  name: "Loubnâne ech Chemâli"
+  names:
+    - "Ash Shamal"
+    - North
+BA:
+  name: Beirut
+  names:
+    - Bayrout
+    - Bayrut
+    - Beirut
+    - Beyrout
+    - Beyrouth
+    - Beyrût
+BI:
+  name: "El Béqaa"
+  names:
+    - Bekaa
+JA:
+  name: "Loubnâne ej Jnoûbi"
+  names:
+    - South
+JL:
+  name: "Jabal Loubnâne"
+  names:
+    - "Mount Lebanon"
+NA:
+  name: Nabatîyé
+  names:
+    - Nabatiyeh

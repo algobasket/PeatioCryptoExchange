@@ -1,0 +1,445 @@
+---
+AD:
+  name: "Adygeya, Respublika"
+  names:
+    - "Adygei Republic"
+    - Adygeja
+AGB:
+  name: "Aginskiy Buryatskiy avtonomnyy okrug"
+  names:
+    - "Agin Burjat"
+    - "Aginskij Burjatskij Avtonomnyj Okrug"
+    - Aga
+AL:
+  name: "Altay, Respublika"
+  names:
+    - Altaj
+    - Altay
+    - Gorno-Altaj
+ALT:
+  name: "Altayskiy kray"
+  names:
+    - "Altai Kray"
+    - "Altajskij Kray"
+    - "Altajskiy Kraj"
+    - Altaj
+AMU:
+  name: "Amurskaya oblast'"
+  names:
+    - "Amurskaja Oblast"
+ARK:
+  name: "Arkhangel'skaya oblast'"
+  names:
+    - "Arhangelskaja Oblast"
+    - Arhangelsk
+AST:
+  name: "Astrakhanskaya oblast'"
+  names:
+    - "Astrahanska Oblast"
+    - Astrahan
+BA:
+  name: "Bashkortostan, Respublika"
+  names:
+    - Baškortostan
+BEL:
+  name: "Belgorodskaya oblast'"
+  names:
+    - "Belgorodskaja Oblast"
+BRY:
+  name: "Bryanskaya oblast'"
+  names:
+    - "Brjanskaja Oblast"
+    - Brjansk
+BU:
+  name: "Buryatiya, Respublika"
+  names:
+    - "Buryat Republic"
+    - Burjatija
+CE:
+  name: "Chechenskaya Respublika"
+  names:
+    - Chechen
+    - Chechenia
+    - Ichkeria
+    - Ičkeria
+    - Čečens
+    - "Čečenskaja Respublika"
+    - Čečenija
+CHE:
+  name: "Chelyabinskaya oblast'"
+  names:
+    - Cheljabinsk
+    - "Čeljabinskaja Oblast"
+    - Čeljabinsk
+CHI:
+  name: "Chitinskaya oblast'"
+  names:
+    - "Čitinskaja Oblast"
+    - Čita
+CHU:
+  name: "Chukotskiy avtonomnyy okrug"
+  names:
+    - Chuckchi
+    - "Čukotskij Avtonomnyj Okrug"
+    - Čukči
+    - Čukotka
+CU:
+  name: "Chuvashskaya Respublika"
+  names:
+    - "Chuvash Republic"
+    - "Chuvashskaya Respublika"
+    - "Čuvašskaja Respublika"
+    - Čuvašija
+DA:
+  name: "Dagestan, Respublika"
+  names: "Dagestan, Respublika"
+EVE:
+  name: "Evenkiyskiy avtonomnyy okrug"
+  names:
+    - "Evenkijskij Avtonomnyj Okrug"
+    - Evenkija
+IN:
+  name: "Ingushskaya Respublika [Respublika Ingushetiya]"
+  names:
+    - Ingushetija
+    - Ingušetija
+IRK:
+  name: "Irkutskaya oblast'"
+  names:
+    - "Irkutskaja Oblast"
+IVA:
+  name: "Ivanovskaya oblast'"
+  names:
+    - "Ivanovskaja Oblast"
+KAM:
+  name: "Kamchatskaya oblast'"
+  names:
+    - "Kamchatskaya Oblast"
+    - "Kamčatskaja Oblast"
+    - Kamčatka
+KB:
+  name: "Kabardino-Balkarskaya Respublika"
+  names:
+    - "Kabardino-Balkarian Republic"
+    - "Kabardino-Balkarskaja Respublika"
+    - Kabardino-Balkarija
+KC:
+  name: "Karachayevo-Cherkesskaya Respublika"
+  names:
+    - Karachay-Cherkessian
+    - "Karačajevo-Čerkesskaja Respublika"
+    - Karačaj-Čerkessija
+KDA:
+  name: "Krasnodarskiy kray"
+  names:
+    - "Krasnodarskij Kraj"
+KEM:
+  name: "Kemerovskaya oblast'"
+  names:
+    - "Kemerovskaja Oblast"
+KGD:
+  name: "Kaliningradskaya oblast'"
+  names:
+    - "Kaliningradskaja Oblast"
+KGN:
+  name: "Kurganskaya oblast'"
+  names:
+    - "Kurganskaja Oblast"
+KHA:
+  name: "Khabarovskiy kray"
+  names:
+    - "Habarovskij Kray"
+    - Habarovsk
+KHM:
+  name: "Khanty-Mansiyskiy avtonomnyy okrug [Yugra]"
+  names:
+    - "Hanty-Mansijskij Avtonomnyj Okrug"
+    - Hanty-Mansija
+KIR:
+  name: "Kirovskaya oblast'"
+  names:
+    - "Kirovskaja Oblast"
+KK:
+  name: "Khakasiya, Respublika"
+  names:
+    - "Khakass Republic"
+    - Hakasija
+KL:
+  name: "Kalmykiya, Respublika"
+  names:
+    - Halmg-Tangč
+    - "Kalmyk Republic"
+    - Khalmg-Tangch
+    - Kalmykija
+KLU:
+  name: "Kaluzhskaya oblast'"
+  names:
+    - "Kaluzhskaya Oblast"
+    - "Kalužskaja Oblast"
+KO:
+  name: "Komi, Respublika"
+  names: "Komi, Respublika"
+KOR:
+  name: "Koryakskiy avtonomnyy okrug"
+  names:
+    - "Korjakskij Avtonomnyj Okrug"
+    - Korjakija
+KOS:
+  name: "Kostromskaya oblast'"
+  names:
+    - "Kostromskaja Oblast"
+KR:
+  name: "Kareliya, Respublika"
+  names:
+    - "Karelian Republic"
+    - Karelija
+KRS:
+  name: "Kurskaya oblast'"
+  names:
+    - "Kurskaja Oblast"
+KYA:
+  name: "Krasnoyarskiy kray"
+  names:
+    - Krasnojarsk
+    - "Krasnojarskij Kraj"
+    - Krasnojarsk
+LEN:
+  name: "Leningradskaya oblast'"
+  names:
+    - "Leningradskaja Oblast"
+LIP:
+  name: "Lipetskaya oblast'"
+  names:
+    - "Lipeckaja Oblast"
+    - Lipeck
+MAG:
+  name: "Magadanskaya oblast'"
+  names:
+    - "Magadanskaja Oblast"
+ME:
+  name: "Mariy El, Respublika"
+  names:
+    - "Mariy El"
+    - "Marij El"
+MO:
+  name: "Mordoviya, Respublika"
+  names:
+    - "Mordovian Republic"
+    - Mordovija
+MOS:
+  name: "Moskovskaya oblast'"
+  names:
+    - Moskva
+    - Moskau
+    - Moscou
+    - Moscú
+MOW:
+  name: Moskva
+  names:
+    - "Moskovskaja Oblast"
+MUR:
+  name: "Murmanskaya oblast'"
+  names:
+    - "Murmanskaja Oblast"
+NEN:
+  name: "Nenetskiy avtonomnyy okrug"
+  names:
+    - "Nenetskij Avtonomnyj Okrug"
+NGR:
+  name: "Novgorodskaya oblast'"
+  names:
+    - "Novgorodskaja Oblast"
+NIZ:
+  name: "Nizhegorodskaya oblast'"
+  names:
+    - Gorki
+    - Gorkij
+    - Gorky
+    - "Nizhegorodskaya Oblast"
+    - "Nižegorodskaja Oblast"
+    - "Nižnij Novgorod"
+NVS:
+  name: "Novosibirskaya oblast'"
+  names:
+    - "Novosibirskaja Oblast"
+OMS:
+  name: "Omskaya oblast'"
+  names:
+    - "Omskaja Oblast"
+ORE:
+  name: "Orenburgskaya oblast'"
+  names:
+    - "Orenburgskaja Oblast"
+ORL:
+  name: "Orlovskaya oblast'"
+  names:
+    - "Orlovskaja Oblast"
+    - Orjol
+PER:
+  name: Perm
+  names:
+    - "Permskaja Oblast"
+PNZ:
+  name: "Penzenskaya oblast'"
+  names:
+    - "Penzenskaja Oblast"
+PRI:
+  name: "Primorskiy kray"
+  names:
+    - Primorskij
+    - "Primorskij Kraj"
+    - Primorje
+PSK:
+  name: "Pskovskaya oblast'"
+  names:
+    - Pihkva
+    - Pleskau
+    - "Pskovskaja Oblast"
+ROS:
+  name: "Rostovskaya oblast'"
+  names:
+    - "Rostovskaja Oblast"
+RYA:
+  name: "Ryazanskaya oblast'"
+  names:
+    - "Rjazanskaja Oblast"
+    - Rjazan
+SA:
+  name: "Sakha, Respublika [Yakutiya]"
+  names:
+    - Jakutija
+    - Sakha
+    - Yakutsk-Sakha
+    - Saha
+SAK:
+  name: "Sakhalinskaya oblast'"
+  names:
+    - "Sahalinskaya Oblast"
+    - Sahalin
+SAM:
+  name: "Samarskaya oblast'"
+  names:
+    - "Samarskaja Oblast"
+SAR:
+  name: "Saratovskaya oblast'"
+  names:
+    - "Saratovskaja Oblast"
+SE:
+  name: "Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]"
+  names:
+    - Alania
+    - "North Ossetian Republic"
+    - Osetija
+    - Alanija
+SMO:
+  name: "Smolenskaya oblast'"
+  names:
+    - "Smolenskaja Oblast"
+SPE:
+  name: Sankt-Peterburg
+  names:
+    - "San Pietroburgo"
+    - Sankt-Peterburg
+    - "Sankt Petersburg"
+    - Saint-Pétersbourg
+    - "San Petersburgo"
+STA:
+  name: "Stavropol'skiy kray"
+  names:
+    - "Stavropolskij Kraj"
+SVE:
+  name: "Sverdlovskaya oblast'"
+  names:
+    - "Sverdlovskaja Oblast"
+TA:
+  name: "Tatarstan, Respublika"
+  names: "Tatarstan, Respublika"
+TAM:
+  name: "Tambovskaya oblast'"
+  names:
+    - "Tambovskaja Oblast"
+TAY:
+  name: "Taymyrskiy (Dolgano-Nenetskiy) avtonomnyy okrug"
+  names:
+    - Taimir
+    - "Tajmyrskij Avtonomnyj Okrug"
+    - Tajmyr
+TOM:
+  name: "Tomskaya oblast'"
+  names:
+    - "Tomskaja Oblast"
+TUL:
+  name: "Tul'skaya oblast'"
+  names:
+    - "Tulskaja Oblast"
+TVE:
+  name: "Tverskaya oblast'"
+  names:
+    - "Tverskaja Oblast"
+TY:
+  name: "Tyva, Respublika [Tuva]"
+  names:
+    - Tuva
+TYU:
+  name: "Tyumenskaya oblast'"
+  names:
+    - "Tjumenskaja Oblast"
+    - Tumen
+    - Tjumen
+UD:
+  name: "Udmurtskaya Respublika"
+  names:
+    - "Udmurt Republic"
+    - "Udmurtskaya Respublika"
+    - Udmurtija
+ULY:
+  name: "Ul'yanovskaya oblast'"
+  names:
+    - "Uljanovskaja Oblast"
+    - Uljanovsk
+UOB:
+  name: "Ust'-Ordynskiy Buryatskiy avtonomnyy okrug"
+  names:
+    - "Ust-Ordynskij Burjatskij Avtonomnyj Okrug"
+    - Ust-Orda
+VGG:
+  name: "Volgogradskaya oblast'"
+  names:
+    - "Volgogradskaja Oblast"
+VLA:
+  name: "Vladimirskaya oblast'"
+  names:
+    - "Vladimirskaja Oblast"
+VLG:
+  name: "Vologodskaya oblast'"
+  names:
+    - "Vologodskaja Oblast"
+VOR:
+  name: "Voronezhskaya oblast'"
+  names:
+    - "Voronežskaja Oblast"
+    - Voronež
+X1~:
+  name: Komi-Permyak
+  names:
+    - "Komi-Permjatskij Avtonomnyj Okrug"
+    - Komi-Permjak
+YAN:
+  name: "Yamalo-Nenetskiy avtonomnyy okrug"
+  names:
+    - Jamalija
+    - "Jamalo-Nenetskij Avtonomnyj Okrug"
+    - Jamalo-Nenets
+YAR:
+  name: "Yaroslavskaya oblast'"
+  names:
+    - "Jaroslavskaja Oblast"
+    - Jaroslavl
+YEV:
+  name: "Yevreyskaya avtonomnaya oblast'"
+  names:
+    - "Jevrejskaja Oblast"
+    - "Jevrejskaja Respublika"
+    - "Jewish Autonomous Oblast"
+    - "Yevreyskaya Oblast"
+    - Jevrej

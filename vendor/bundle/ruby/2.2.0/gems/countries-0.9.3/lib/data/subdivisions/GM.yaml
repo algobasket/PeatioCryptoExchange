@@ -1,0 +1,24 @@
+---
+B:
+  name: Banjul
+  names: Banjul
+L:
+  name: "Lower River"
+  names:
+    - "Lower River"
+M:
+  name: "MacCarthy Island"
+  names: "MacCarthy Island"
+? "N"
+:
+  name: "North Bank"
+  names:
+    - "North Bank"
+U:
+  name: "Upper River"
+  names:
+    - "Upper River"
+W:
+  name: Western
+  names:
+    - Western

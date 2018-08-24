@@ -1,0 +1,22 @@
+---
+A:
+  name: Alajuela
+  names: Alajuela
+C:
+  name: Cartago
+  names: Cartago
+G:
+  name: Guanacaste
+  names: Guanacaste
+H:
+  name: Heredia
+  names: Heredia
+L:
+  name: Limón
+  names: Limón
+P:
+  name: Puntarenas
+  names: Puntarenas
+SJ:
+  name: "San José"
+  names: "San José"

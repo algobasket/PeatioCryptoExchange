@@ -1,0 +1,6 @@
+LineLength:
+  Exclude:
+    - spec/**/*
+
+StringLiterals:
+  Enabled: false

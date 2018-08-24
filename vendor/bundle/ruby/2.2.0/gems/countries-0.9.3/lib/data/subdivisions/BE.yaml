@@ -1,0 +1,64 @@
+---
+BRU:
+  name: Brussels
+  names:
+    - "Brussels Hoofdstedelijk Gewest"
+    - "Région de Bruxelles-Capitale"
+    - Brussel
+    - Brüssel
+    - Bruxelles
+VAN:
+  name: "Antwerpen (nl)"
+  names:
+    - Antwerpen
+    - Anvers
+VBR:
+  name: "Vlaams Brabant (nl)"
+  names:
+    - Brabant-Vlanderen
+    - Vlaams-Brabant
+    - "Flämisch Brabant"
+    - Brabant-Flamand
+VLI:
+  name: "Limburg (nl)"
+  names:
+    - Limbourg
+VOV:
+  name: "Oost-Vlaanderen (nl)"
+  names:
+    - Oos-Vlanderen
+    - Oost-Vlaanderen
+    - Ost-Flandern
+    - Flandre-Orientale
+VWV:
+  name: "West-Vlaanderen (nl)"
+  names:
+    - Wes-Vlanderen
+    - West-Vlaanderen
+    - West-Flandern
+    - Flandre-Occidentale
+WBR:
+  name: "Brabant Wallon (fr)"
+  names:
+    - Waals-Brabant
+    - "Wallonisch Brabant"
+    - "Walloon Brabant"
+WHT:
+  name: "Hainaut (fr)"
+  names:
+    - Henegouwen
+    - Hennegau
+WLG:
+  name: "Liège (fr)"
+  names:
+    - Luik
+    - Lüttich
+WLX:
+  name: "Luxembourg (fr)"
+  names:
+    - Luxembourg
+    - Luxemburg
+WNA:
+  name: "Namur (fr)"
+  names:
+    - Namen

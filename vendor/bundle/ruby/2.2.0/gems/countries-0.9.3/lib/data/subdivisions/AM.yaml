@@ -1,0 +1,38 @@
+---
+AG:
+  name: Aragac?otn
+  names: Aragac?otn
+AR:
+  name: Ararat
+  names: Ararat
+AV:
+  name: Armavir
+  names: Armavir
+ER:
+  name: Erevan
+  names: Erevan
+GR:
+  name: Gegark'unik'
+  names:
+    - Gegharkunick
+KT:
+  name: Kotayk'
+  names:
+    - Kotaik
+LO:
+  name: Lo?y
+  names:
+    - Lorri
+SH:
+  name: Širak
+  names: Širak
+SU:
+  name: Syunik'
+  names: Syunik'
+TV:
+  name: Tavuš
+  names:
+    - Tavoush
+VD:
+  name: "Vayoc Jor"
+  names: "Vayoc Jor"

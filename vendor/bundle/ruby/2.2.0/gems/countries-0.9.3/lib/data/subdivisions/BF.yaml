@@ -1,0 +1,140 @@
+---
+BAL:
+  name: Balé
+  names: Balé
+BAM:
+  name: Bam
+  names: Bam
+BAN:
+  name: Banwa
+  names: Banwa
+BAZ:
+  name: Bazèga
+  names: Bazèga
+BGR:
+  name: Bougouriba
+  names: Bougouriba
+BLG:
+  name: Boulgou
+  names: Boulgou
+BLK:
+  name: Boulkiemdé
+  names: Boulkiemdé
+COM:
+  name: Comoé
+  names: Comoé
+GAN:
+  name: Ganzourgou
+  names: Ganzourgou
+GNA:
+  name: Gnagna
+  names: Gnagna
+GOU:
+  name: Gourma
+  names: Gourma
+HOU:
+  name: Houet
+  names: Houet
+IOB:
+  name: Ioba
+  names: Ioba
+KAD:
+  name: Kadiogo
+  names: Kadiogo
+KEN:
+  name: Kénédougou
+  names: Kénédougou
+KMD:
+  name: Komondjari
+  names:
+    - Komandjoari
+    - Komondjari
+KMP:
+  name: Kompienga
+  names: Kompienga
+KOP:
+  name: Koulpélogo
+  names: Koulpélogo
+KOS:
+  name: Kossi
+  names: Kossi
+KOT:
+  name: Kouritenga
+  names: Kouritenga
+KOW:
+  name: Kourwéogo
+  names: Kourwéogo
+LER:
+  name: Léraba
+  names: Léraba
+LOR:
+  name: Loroum
+  names: Loroum
+MOU:
+  name: Mouhoun
+  names: Mouhoun
+NAM:
+  name: Namentenga
+  names: Namentenga
+NAO:
+  name: Nahouri
+  names:
+    - Naouri
+NAY:
+  name: Nayala
+  names: Nayala
+NOU:
+  name: Noumbiel
+  names: Noumbiel
+OUB:
+  name: Oubritenga
+  names: Oubritenga
+OUD:
+  name: Oudalan
+  names: Oudalan
+PAS:
+  name: Passoré
+  names: Passoré
+PON:
+  name: Poni
+  names: Poni
+SEN:
+  name: Séno
+  names: Séno
+SIS:
+  name: Sissili
+  names: Sissili
+SMT:
+  name: Sanmatenga
+  names: Sanmatenga
+SNG:
+  name: Sanguié
+  names: Sanguié
+SOM:
+  name: Soum
+  names: Soum
+SOR:
+  name: Sourou
+  names: Sourou
+TAP:
+  name: Tapoa
+  names: Tapoa
+TUI:
+  name: Tui
+  names:
+    - Tui
+YAG:
+  name: Yagha
+  names: Yagha
+YAT:
+  name: Yatenga
+  names: Yatenga
+ZIR:
+  name: Ziro
+  names: Ziro
+ZON:
+  name: Zondoma
+  names: Zondoma
+ZOU:
+  name: Zoundwéogo
+  names: Zoundwéogo

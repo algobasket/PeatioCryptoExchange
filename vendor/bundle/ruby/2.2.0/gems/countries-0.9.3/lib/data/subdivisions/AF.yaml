@@ -1,0 +1,194 @@
+---
+BAL:
+  name: Balkh
+  names:
+    - Balkh
+BAM:
+  name: Bamian
+  names:
+    - Bamian
+    - Bamiyan
+    - Bāmīān
+BDG:
+  name: Badghis
+  names:
+    - Badghis
+    - Badgis
+    - Bādghīs
+BDS:
+  name: Badakhshan
+  names:
+    - Badaẖšan
+BGL:
+  name: Baghlan
+  names:
+    - Baghlan
+    - Baghlān
+    - Baglan
+DAY:
+  name: Daykondi
+  names:
+    - Daikondi
+FRA:
+  name: Farah
+  names:
+    - Fahrah
+FYB:
+  name: Faryab
+  names:
+    - Fariab
+GHA:
+  name: Ghazni
+  names:
+    - Gazni
+    - Ghazni
+GHO:
+  name: Ghowr
+  names:
+    - Ghawr
+    - Ghor
+    - Ghowr
+    - Gōr
+HEL:
+  name: Helmand
+  names:
+    - Helmand
+    - Hilmend
+HER:
+  name: Herat
+  names:
+    - Herat
+JOW:
+  name: Jowzjan
+  names:
+    - Jawzjan
+    - Jowzjan
+    - Jowzjān
+    - Jozjan
+    - Juzjan
+KAB:
+  name: "Kabul [Kabol]"
+  names:
+    - Kabol
+    - Kābol
+    - Kābul
+    - Kabul
+KAN:
+  name: Kandahar
+  names:
+    - Kandahar
+KAP:
+  name: Kapisa
+  names:
+    - Kapesa
+    - Kapisa
+    - Kapissa
+KDZ:
+  name: "Kondoz [Kunduz]"
+  names:
+    - Kondoz
+    - Kondūz
+    - Kūnduz
+    - Qondūz
+KHO:
+  name: Khowst
+  names:
+    - H̱ōst
+    - Khawst
+    - Khost
+    - Matun
+    - Matūn
+    - H̱awst
+KNR:
+  name: "Konar [Kunar]"
+  names:
+    - Konar
+    - Konarhā
+LAG:
+  name: Laghman
+  names:
+    - Laghman
+    - Laghmān
+    - Lagman
+LOW:
+  name: Lowgar
+  names:
+    - Lawgar
+    - Logar
+    - Loghar
+    - Lowgar
+    - Lowghar
+NAN:
+  name: "Nangrahar [Nangarhar]"
+  names:
+    - Nangarhar
+    - Ningarhar
+NIM:
+  name: Nimruz
+  names:
+    - Chakhānsur
+    - Neemroze
+    - Nimroz
+    - Nimroze
+NUR:
+  name: Nurestan
+  names:
+    - Nooristan
+    - Nouristan
+    - Nurestan
+ORU:
+  name: "Oruzgan [Uruzgan]"
+  names:
+    - Oruzgan
+    - Oruzghan
+    - Orūzghān
+    - Uruzgan
+    - Uruzghan
+    - Urūzghān
+PAN:
+  name: Panjshir
+  names:
+    - Panjshir
+PAR:
+  name: Parwan
+  names:
+    - Parvan
+    - Parvān
+    - Parwan
+PIA:
+  name: Paktia
+  names:
+    - Paktia
+    - Paktiya
+    - Paktīā
+PKA:
+  name: Paktika
+  names:
+    - Paktika
+SAM:
+  name: Samangan
+  names: Samangan
+SAR:
+  name: "Sar-e Pol"
+  names:
+    - "Sar-e Pol"
+    - "Sar-i Pol"
+    - "Sari Pol"
+TAK:
+  name: Takhar
+  names:
+    - Tahar
+    - Takhar
+    - Takhār
+WAR:
+  name: "Wardak [Wardag]"
+  names:
+    - Vardak
+    - Wardagh
+    - Wardak
+ZAB:
+  name: "Zabol [Zabul]"
+  names:
+    - Zabol
+    - Zabul
+    - Zābol

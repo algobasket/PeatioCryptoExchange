@@ -1,0 +1,88 @@
+---
+AT:
+  name: "Attapu [Attopeu]"
+  names:
+    - Attapu
+    - Attopei
+    - Attopeu
+BK:
+  name: Bokèo
+  names: Bokèo
+BL:
+  name: "Bolikhamxai [Borikhane]"
+  names:
+    - Bolikhamsai
+    - Bolikhamxai
+    - Borikhamxai
+CH:
+  name: "Champasak [Champassak]"
+  names:
+    - Champasack
+    - Champassak
+HO:
+  name: Houaphan
+  names:
+    - Houaphan
+KH:
+  name: Khammouan
+  names: Khammouan
+LM:
+  name: "Louang Namtha"
+  names:
+    - "Louang Namtha"
+    - Louangnamtha
+    - "Luang Namtha"
+    - "Luong Nam Tha"
+LP:
+  name: "Louangphabang [Louang Prabang]"
+  names:
+    - "Louang Phrabang"
+    - "Louang Prabang"
+    - Louangphrabang
+    - "Luang Phrabang"
+OU:
+  name: "Oudômxai [Oudomsai]"
+  names:
+    - Oudomsai
+    - Oudomsay
+PH:
+  name: "Phôngsali [Phong Saly]"
+  names:
+    - Phongsali
+SL:
+  name: "Salavan [Saravane]"
+  names:
+    - Saravane
+SV:
+  name: Savannakhét
+  names: Savannakhét
+VI:
+  name: Vientiane
+  names:
+    - "Vientiane Province"
+VT:
+  name: "Vientiane Prefecture"
+  names:
+    - "Viangchan City"
+    - "Vientiane City"
+XA:
+  name: "Xaignabouli [Sayaboury]"
+  names:
+    - Sayaboury
+    - Sayabury
+    - Xaignaboury
+XE:
+  name: "Xékong [Sékong]"
+  names:
+    - Xékong
+XI:
+  name: "Xiangkhoang [Xieng Khouang]"
+  names:
+    - "Xiang Khouang"
+    - Xiangkhouang
+    - Xiangkhuang
+    - "Xieng Khouang"
+XN:
+  name: Xaisômboun
+  names:
+    - Xaisômboun

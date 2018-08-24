@@ -1,0 +1,19 @@
+---
+KSA:
+  name: Kosrae
+  names:
+    - Kosrae
+PNI:
+  name: Pohnpei
+  names:
+    - Ascension
+    - Ponape
+TRK:
+  name: Chuuk
+  names:
+    - Chuk
+    - "Hogoley Islands"
+    - Truk
+YAP:
+  name: Yap
+  names: Yap

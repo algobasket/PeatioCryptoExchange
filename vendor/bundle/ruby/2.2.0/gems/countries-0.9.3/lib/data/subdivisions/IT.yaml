@@ -1,0 +1,332 @@
+---
+AG:
+  name: Agrigento
+  names: Agrigento
+AL:
+  name: Alessandria
+  names: Alessandria
+AN:
+  name: Ancona
+  names: Ancona
+AO:
+  name: Aosta
+  names: Aosta
+AP:
+  name: "Ascoli Piceno"
+  names: "Ascoli Piceno"
+AQ:
+  name: L'Aquila
+  names: L'Aquila
+AR:
+  name: Arezzo
+  names: Arezzo
+AT:
+  name: Asti
+  names: Asti
+AV:
+  name: Avellino
+  names: Avellino
+BA:
+  name: Bari
+  names: Bari
+BG:
+  name: Bergamo
+  names: Bergamo
+BI:
+  name: Biella
+  names: Biella
+BL:
+  name: Belluno
+  names: Belluno
+BN:
+  name: Benevento
+  names: Benevento
+BO:
+  name: Bologna
+  names: Bologna
+BR:
+  name: Brindisi
+  names: Brindisi
+BS:
+  name: Brescia
+  names: Brescia
+BT:
+  name: "Barletta-Andria-Trani"
+  names: "Barletta-Andria-Trani"
+BZ:
+  name: Bolzano
+  names: Bolzano
+CA:
+  name: Cagliari
+  names: Cagliari
+CB:
+  name: Campobasso
+  names: Campobasso
+CE:
+  name: Caserta
+  names: Caserta
+CH:
+  name: Chieti
+  names: Chieti
+CI:
+  name: Carbonia-Iglesias
+  names: Carbonia-Iglesias
+CL:
+  name: Caltanissetta
+  names: Caltanissetta
+CN:
+  name: Cuneo
+  names: Cuneo
+CO:
+  name: Como
+  names: Como
+CR:
+  name: Cremona
+  names: Cremona
+CS:
+  name: Cosenza
+  names: Cosenza
+CT:
+  name: Catania
+  names: Catania
+CZ:
+  name: Catanzaro
+  names: Catanzaro
+EN:
+  name: Enna
+  names: Enna
+FE:
+  name: Ferrara
+  names: Ferrara
+FG:
+  name: Foggia
+  names: Foggia
+FI:
+  name: Firenze
+  names: Firenze
+FO:
+  name: Forlì
+  names: Forlì
+FR:
+  name: "Frosinone "
+  names: "Frosinone "
+GE:
+  name: Genova
+  names: Genova
+GO:
+  name: Gorizia
+  names: Gorizia
+GR:
+  name: Grosseto
+  names: Grosseto
+IM:
+  name: Imperia
+  names: Imperia
+IS:
+  name: Isernia
+  names: Isernia
+KR:
+  name: Crotone
+  names: Crotone
+LC:
+  name: Lecco
+  names: Lecco
+LE:
+  name: Lecce
+  names: Lecce
+LI:
+  name: Livorno
+  names: Livorno
+LO:
+  name: Lodi
+  names: Lodi
+LT:
+  name: Latina
+  names: Latina
+LU:
+  name: Lucca
+  names: Lucca
+MA:
+  name: "Medio Campidano"
+  names: "Medio Campidano"
+MC:
+  name: Macerata
+  names: Macerata
+ME:
+  name: Messina
+  names: Messina
+MI:
+  name: Milano
+  names: Milano
+MN:
+  name: Mantova
+  names: Mantova
+MO:
+  name: Modena
+  names: Modena
+MS:
+  name: Massa-Carrara
+  names: Massa-Carrara
+MT:
+  name: Matera
+  names: Matera
+NA:
+  name: Napoli
+  names: Napoli
+? "NO"
+:
+  name: Novara
+  names: Novara
+NU:
+  name: Nuoro
+  names: Nuoro
+OG:
+  name: Ogliastra
+  names: Ogliastra
+OL:
+  name: Olbia-Tempio
+  names: Olbia-Tempio
+OR:
+  name: Oristano
+  names: Oristano
+OT:
+  name: Olbia-Tempio
+  names: Olbia-Tempio
+PA:
+  name: Palermo
+  names: Palermo
+PC:
+  name: Piacenza
+  names: Piacenza
+PD:
+  name: Padova
+  names: Padova
+PE:
+  name: Pescara
+  names: Pescara
+PG:
+  name: Perugia
+  names: Perugia
+PI:
+  name: Pisa
+  names: Pisa
+PN:
+  name: Pordenone
+  names: Pordenone
+PO:
+  name: Prato
+  names: Prato
+PR:
+  name: Parma
+  names: Parma
+PS:
+  name: "Pesaro e Urbino"
+  names: "Pesaro e Urbino"
+PT:
+  name: Pistoia
+  names: Pistoia
+PV:
+  name: Pavia
+  names: Pavia
+PZ:
+  name: Potenza
+  names: Potenza
+RA:
+  name: Ravenna
+  names: Ravenna
+RC:
+  name: "Reggio Calabria"
+  names: "Reggio Calabria"
+RE:
+  name: "Reggio Emilia"
+  names: "Reggio Emilia"
+RG:
+  name: Ragusa
+  names: Ragusa
+RI:
+  name: Rieti
+  names: Rieti
+RM:
+  name: Roma
+  names: Roma
+RN:
+  name: Rimini
+  names: Rimini
+RO:
+  name: Rovigo
+  names: Rovigo
+SA:
+  name: Salerno
+  names: Salerno
+SI:
+  name: Siena
+  names: Siena
+SO:
+  name: Sondrio
+  names: Sondrio
+SP:
+  name: "La Spezia"
+  names: "La Spezia"
+SR:
+  name: Siracusa
+  names: Siracusa
+SS:
+  name: Sassari
+  names: Sassari
+SV:
+  name: Savona
+  names: Savona
+TA:
+  name: Taranto
+  names: Taranto
+TE:
+  name: Teramo
+  names: Teramo
+TN:
+  name: Trento
+  names: Trento
+TO:
+  name: Torino
+  names: Torino
+TP:
+  name: Trapani
+  names: Trapani
+TR:
+  name: Terni
+  names: Terni
+TS:
+  name: Trieste
+  names: Trieste
+TV:
+  name: Treviso
+  names: Treviso
+UD:
+  name: Udine
+  names: Udine
+VA:
+  name: Varese
+  names: Varese
+VB:
+  name: Verbano-Cusio-Ossola
+  names: Verbano-Cusio-Ossola
+VC:
+  name: Vercelli
+  names: Vercelli
+VE:
+  name: Venezia
+  names: Venezia
+VI:
+  name: Vicenza
+  names: Vicenza
+VR:
+  name: Verona
+  names: Verona
+VS:
+  name: "Medio Campidano"
+  names: "Medio Campidano"
+VT:
+  name: Viterbo
+  names: Viterbo
+VV:
+  name: "Vibo Valentia"
+  names: "Vibo Valentia"

@@ -1,0 +1,82 @@
+---
+BA:
+  name: Balaka
+  names: Balaka
+BL:
+  name: Blantyre
+  names: Blantyre
+CK:
+  name: Chikwawa
+  names: Chikwawa
+CR:
+  name: Chiradzulu
+  names: Chiradzulu
+CT:
+  name: Chitipa
+  names: Chitipa
+DE:
+  name: Dedza
+  names: Dedza
+DO:
+  name: Dowa
+  names: Dowa
+KR:
+  name: Karonga
+  names: Karonga
+KS:
+  name: Kasungu
+  names: Kasungu
+LI:
+  name: Lilongwe
+  names: Lilongwe
+LK:
+  name: "Likoma Island"
+  names: "Likoma Island"
+MC:
+  name: Mchinji
+  names: Mchinji
+MG:
+  name: Mangochi
+  names: Mangochi
+MH:
+  name: Machinga
+  names: Machinga
+MU:
+  name: Mulanje
+  names: Mulanje
+MW:
+  name: Mwanza
+  names: Mwanza
+MZ:
+  name: Mzimba
+  names: Mzimba
+NB:
+  name: "Nkhata Bay"
+  names: "Nkhata Bay"
+NI:
+  name: Ntchisi
+  names: Ntchisi
+NK:
+  name: Nkhotakota
+  names: Nkhotakota
+NS:
+  name: Nsanje
+  names: Nsanje
+NU:
+  name: Ntcheu
+  names: Ntcheu
+PH:
+  name: Phalombe
+  names: Phalombe
+RU:
+  name: Rumphi
+  names: Rumphi
+SA:
+  name: Salima
+  names: Salima
+TH:
+  name: Thyolo
+  names: Thyolo
+ZO:
+  name: Zomba
+  names: Zomba

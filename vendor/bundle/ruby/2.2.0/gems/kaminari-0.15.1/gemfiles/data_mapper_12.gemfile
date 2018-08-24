@@ -1,0 +1,31 @@
+source 'https://rubygems.org'
+
+gem 'railties', '>= 3.2.3'
+gem 'dm-core', '~> 1.2.0'
+gem 'dm-migrations', '~> 1.2.0'
+gem 'dm-aggregates', '~> 1.2.0'
+gem 'dm-transactions', '~> 1.2.0'
+gem 'dm-active_model', '~> 1.2.1'
+gem 'dm-sqlite-adapter', '~> 1.2.0'
+gem 'rspec-rails', '>= 2.0'
+
+# stick to versions that work under Ruby 1.8 for now
+gem 'capybara', '< 2.1'
+gem 'nokogiri', '< 1.6'
+gem 'rubyzip', '< 1'
+gem 'mime-types', '< 2'
+
+platforms :ruby, :rbx do
+  gem 'sqlite3'
+end
+platforms :jruby do
+  gem 'activerecord-jdbcsqlite3-adapter', '~> 1.2.0'
+end
+platforms :rbx do
+  gem 'rubysl', '~> 2.0'
+  gem 'racc'
+  gem 'rubysl-test-unit'
+  gem 'rubinius-developer_tools'
+end
+
+gemspec :path => '../'

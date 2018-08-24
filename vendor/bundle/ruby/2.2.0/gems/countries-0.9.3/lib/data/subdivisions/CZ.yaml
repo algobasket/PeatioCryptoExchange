@@ -1,0 +1,55 @@
+---
+JC:
+  name: "Jihoceský kraj"
+  names:
+    - Budějovický
+    - Českobudějovický
+JM:
+  name: "Jihomoravský kraj "
+  names:
+    - Brnenský
+KA:
+  name: "Karlovarský kraj"
+  names: "Karlovarský kraj"
+KR:
+  name: "Královéhradecký kraj"
+  names: "Královéhradecký kraj"
+LI:
+  name: "Liberecký kraj"
+  names: "Liberecký kraj"
+MO:
+  name: "Moravskoslezský kraj"
+  names:
+    - Ostravský
+OL:
+  name: "Olomoucký kraj"
+  names: "Olomoucký kraj"
+PA:
+  name: "Pardubický kraj"
+  names: "Pardubický kraj"
+PL:
+  name: "Plzenský kraj"
+  names: "Plzenský kraj"
+PR:
+  name: "Praha, hlavní mesto"
+  names:
+    - "Hlavi město Praha"
+    - Praha
+    - Prag
+    - Prague
+ST:
+  name: "Stredoceský kraj"
+  names:
+    - "Central Bohemia"
+    - Mittelböhmen
+    - Stredocesky
+US:
+  name: "Ústecký kraj "
+  names: "Ústecký kraj "
+VY:
+  name: Vysocina
+  names:
+    - Jihlavský
+ZL:
+  name: "Zlínský kraj"
+  names: "Zlínský kraj"

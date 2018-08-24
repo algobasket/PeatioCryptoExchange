@@ -1,0 +1,112 @@
+---
+AN:
+  name: "Andaman and Nicobar Islands"
+  names: "Andaman and Nicobar Islands"
+AP:
+  name: "Andhra Pradesh"
+  names: "Andhra Pradesh"
+AR:
+  name: "Arunachal Pradesh"
+  names: "Arunachal Pradesh"
+AS:
+  name: Assam
+  names: Assam
+BR:
+  name: Bihar
+  names: Bihar
+CH:
+  name: Chandigarh
+  names: Chandigarh
+CT:
+  name: Chhattisgarh
+  names: Chhattisgarh
+DD:
+  name: "Daman and Diu"
+  names: "Daman and Diu"
+DL:
+  name: Delhi
+  names: Delhi
+DN:
+  name: "Dadra and Nagar Haveli"
+  names: "Dadra and Nagar Haveli"
+GA:
+  name: Goa
+  names: Goa
+GJ:
+  name: Gujarat
+  names: Gujarat
+HP:
+  name: "Himachal Pradesh"
+  names: "Himachal Pradesh"
+HR:
+  name: Haryana
+  names: Haryana
+JH:
+  name: Jharkhand
+  names:
+    - Vananchal
+JK:
+  name: "Jammu and Kashmir"
+  names: "Jammu and Kashmir"
+KA:
+  name: Karnataka
+  names:
+    - Kanara
+KL:
+  name: Kerala
+  names: Kerala
+LD:
+  name: Lakshadweep
+  names:
+    - Laccadive
+    - Lakkadiven
+MH:
+  name: Maharashtra
+  names: Maharashtra
+ML:
+  name: Meghalaya
+  names: Meghalaya
+MN:
+  name: Manipur
+  names: Manipur
+MP:
+  name: "Madhya Pradesh"
+  names: "Madhya Pradesh"
+MZ:
+  name: Mizoram
+  names: Mizoram
+NL:
+  name: Nagaland
+  names: Nagaland
+OR:
+  name: Orissa
+  names: Orissa
+PB:
+  name: Punjab
+  names: Punjab
+PY:
+  name: Pondicherry
+  names: Pondicherry
+RJ:
+  name: Rajasthan
+  names: Rajasthan
+SK:
+  name: Sikkim
+  names:
+    - Denjong
+TN:
+  name: "Tamil Nadu"
+  names: "Tamil Nadu"
+TR:
+  name: Tripura
+  names: Tripura
+UL:
+  name: Uttaranchal
+  names: Uttaranchal
+UP:
+  name: "Uttar Pradesh"
+  names: "Uttar Pradesh"
+WB:
+  name: "West Bengal"
+  names:
+    - "West Bengal"

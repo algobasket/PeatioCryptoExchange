@@ -1,0 +1,62 @@
+---
+AC:
+  name: Ouham
+  names: Ouham
+BB:
+  name: Bamingui-Bangoran
+  names: Bamingui-Bangoran
+BGF:
+  name: Bangui
+  names: Bangui
+BK:
+  name: Basse-Kotto
+  names: Basse-Kotto
+HK:
+  name: Haute-Kotto
+  names: Haute-Kotto
+HM:
+  name: Haut-Mbomou
+  names:
+    - Haut-Mʿbomou
+HS:
+  name: Mambéré-Kadéï
+  names:
+    - Haut-Sangha
+KB:
+  name: Nana-Grébizi
+  names:
+    - Gribingui
+    - Nana-Grébisi
+KG:
+  name: Kémo
+  names:
+    - "Kémo Gribingui"
+LB:
+  name: Lobaye
+  names: Lobaye
+MB:
+  name: Mbomou
+  names:
+    - Mʿbomou
+MP:
+  name: Ombella-Mpoko
+  names:
+    - Ombella-Mʿpoko
+    - "Ombelle Mpoko"
+NM:
+  name: Nana-Mambéré
+  names: Nana-Mambéré
+OP:
+  name: Ouham-Pendé
+  names: Ouham-Pendé
+SE:
+  name: Sangha-Mbaéré
+  names:
+    - Mbaeré
+    - Sangha
+UK:
+  name: Ouaka
+  names: Ouaka
+VK:
+  name: Vakaga
+  names: Vakaga

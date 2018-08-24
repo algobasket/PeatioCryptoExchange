@@ -1,0 +1,31 @@
+---
+BU:
+  name: Bulawayo
+  names: Bulawayo
+HA:
+  name: Harare
+  names: Harare
+MA:
+  name: Manicaland
+  names: Manicaland
+MC:
+  name: "Mashonaland Central"
+  names: "Mashonaland Central"
+ME:
+  name: "Mashonaland East"
+  names: "Mashonaland East"
+MI:
+  name: Midlands
+  names: Midlands
+MN:
+  name: "Matabeleland North"
+  names: "Matabeleland North"
+MS:
+  name: "Matabeleland South"
+  names: "Matabeleland South"
+MV:
+  name: Masvingo
+  names: Masvingo
+MW:
+  name: "Mashonaland West"
+  names: "Mashonaland West"

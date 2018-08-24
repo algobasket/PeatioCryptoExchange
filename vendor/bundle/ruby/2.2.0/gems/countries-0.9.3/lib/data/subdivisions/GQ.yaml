@@ -1,0 +1,28 @@
+---
+AN:
+  name: Annobón
+  names: Annobón
+BN:
+  name: "Bioko Norte"
+  names: "Bioko Norte"
+BS:
+  name: "Bioko Sur"
+  names: "Bioko Sur"
+C:
+  name: "Región Continental"
+  names: "Región Continental"
+CS:
+  name: "Centro Sur"
+  names: "Centro Sur"
+I:
+  name: "Región Insular"
+  names: "Región Insular"
+KN:
+  name: Kie-Ntem
+  names: Kie-Ntem
+LI:
+  name: Litoral
+  names: Litoral
+WN:
+  name: Wele-Nzás
+  names: Wele-Nzás

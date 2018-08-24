@@ -1,0 +1,321 @@
+---
+? "101"
+:
+  name: Kalangala
+  names: Kalangala
+? "102"
+:
+  name: Kampala
+  names: Kampala
+? "103"
+:
+  name: Kiboga
+  names: Kiboga
+? "104"
+:
+  name: Luwero
+  names: Luwero
+? "105"
+:
+  name: Masaka
+  names: Masaka
+? "106"
+:
+  name: Mpigi
+  names: Mpigi
+? "107"
+:
+  name: Mubende
+  names: Mubende
+? "108"
+:
+  name: Mukono
+  names: Mukono
+? "109"
+:
+  name: Nakasongola
+  names: Nakasongola
+? "110"
+:
+  name: Rakai
+  names: Rakai
+? "111"
+:
+  name: Sembabule
+  names: Sembabule
+? "112"
+:
+  name: Kayunga
+  names: Kayunga
+? "113"
+:
+  name: Wakiso
+  names: Wakiso
+? "114"
+:
+  name: Mityana
+  names: Mityana
+? "115"
+:
+  name: Nakaseke
+  names: Nakaseke
+? "116"
+:
+  name: Lyantonde
+  names: Lyantonde
+? "201"
+:
+  name: Bugiri
+  names: Bugiri
+? "202"
+:
+  name: Busia
+  names: Busia
+? "203"
+:
+  name: Iganga
+  names: Iganga
+? "204"
+:
+  name: Jinja
+  names: Jinja
+? "205"
+:
+  name: Kamuli
+  names: Kamuli
+? "206"
+:
+  name: Kapchorwa
+  names: Kapchorwa
+? "207"
+:
+  name: Katakwi
+  names: Katakwi
+? "208"
+:
+  name: Kumi
+  names: Kumi
+? "209"
+:
+  name: Mbale
+  names: Mbale
+? "210"
+:
+  name: Pallisa
+  names: Pallisa
+? "211"
+:
+  name: Soroti
+  names: Soroti
+? "212"
+:
+  name: Tororo
+  names: Tororo
+? "213"
+:
+  name: Kaberamaido
+  names: Kaberamaido
+? "214"
+:
+  name: Mayuge
+  names: Mayuge
+? "215"
+:
+  name: Sironko
+  names: Sironko
+? "216"
+:
+  name: Amuria
+  names: Amuria
+? "217"
+:
+  name: Budaka
+  names: Budaka
+? "218"
+:
+  name: Bukwa
+  names: Bukwa
+? "219"
+:
+  name: Butaleja
+  names: Butaleja
+? "220"
+:
+  name: Kaliro
+  names: Kaliro
+? "221"
+:
+  name: Manafwa
+  names: Manafwa
+? "222"
+:
+  name: Namutumba
+  names: Namutumba
+? "223"
+:
+  name: Bududa
+  names: Bududa
+? "224"
+:
+  name: Bukedea
+  names: Bukedea
+? "301"
+:
+  name: Adjumani
+  names: Adjumani
+? "302"
+:
+  name: Apac
+  names: Apac
+? "303"
+:
+  name: Arua
+  names: Arua
+? "304"
+:
+  name: Gulu
+  names: Gulu
+? "305"
+:
+  name: Kitgum
+  names: Kitgum
+? "306"
+:
+  name: Kotido
+  names: Kotido
+? "307"
+:
+  name: Lira
+  names: Lira
+? "308"
+:
+  name: Moroto
+  names: Moroto
+? "309"
+:
+  name: Moyo
+  names: Moyo
+? "310"
+:
+  name: Nebbi
+  names: Nebbi
+? "311"
+:
+  name: Nakapiripirit
+  names: Nakapiripirit
+? "312"
+:
+  name: Pader
+  names: Pader
+? "313"
+:
+  name: Yumbe
+  names: Yumbe
+? "314"
+:
+  name: Amolatar
+  names: Amolatar
+? "315"
+:
+  name: Kaabong
+  names: Kaabong
+? "316"
+:
+  name: Koboko
+  names: Koboko
+? "317"
+:
+  name: Abim
+  names: Abim
+? "318"
+:
+  name: Dokolo
+  names: Dokolo
+? "319"
+:
+  name: Amuru
+  names: Amuru
+? "320"
+:
+  name: Maracha
+  names: Maracha
+? "321"
+:
+  name: Oyam
+  names: Oyam
+? "401"
+:
+  name: Bundibugyo
+  names: Bundibugyo
+? "402"
+:
+  name: Bushenyi
+  names: Bushenyi
+? "403"
+:
+  name: Hoima
+  names: Hoima
+? "404"
+:
+  name: Kabale
+  names: Kabale
+? "405"
+:
+  name: Kabarole
+  names: Kabarole
+? "406"
+:
+  name: Kasese
+  names: Kasese
+? "407"
+:
+  name: Kibaale
+  names: Kibaale
+? "408"
+:
+  name: Kisoro
+  names: Kisoro
+? "409"
+:
+  name: Masindi
+  names: Masindi
+? "410"
+:
+  name: Mbarara
+  names: Mbarara
+? "411"
+:
+  name: Ntungamo
+  names: Ntungamo
+? "412"
+:
+  name: Rukungiri
+  names: Rukungiri
+? "413"
+:
+  name: Kamwenge
+  names: Kamwenge
+? "414"
+:
+  name: Kanungu
+  names: Kanungu
+? "415"
+:
+  name: Kyenjojo
+  names: Kyenjojo
+? "416"
+:
+  name: Ibanda
+  names: Ibanda
+? "417"
+:
+  name: Isingiro
+  names: Isingiro
+? "418"
+:
+  name: Kiruhura
+  names: Kiruhura
+? "419"
+:
+  name: Buliisa
+  names: Buliisa

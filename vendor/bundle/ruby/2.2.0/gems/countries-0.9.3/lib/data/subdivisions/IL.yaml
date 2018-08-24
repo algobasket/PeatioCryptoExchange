@@ -1,0 +1,32 @@
+---
+D:
+  name: HaDarom
+  names:
+    - Southern
+HA:
+  name: Haifa
+  names:
+    - Hefa
+    - H̱efa
+    - Haifa
+    - Haifa
+    - Haifa
+JM:
+  name: Yerushalayim
+  names:
+    - al-Quds
+    - Yerushalayim
+    - Jerusalem
+    - Jérusalem
+    - Jerusalén
+M:
+  name: HaMerkaz
+  names:
+    - Central
+TA:
+  name: Tel-Aviv
+  names: Tel-Aviv
+Z:
+  name: HaZafon
+  names:
+    - Northern

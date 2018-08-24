@@ -1,0 +1,15 @@
+.DS_Store
+.idea/*
+*.swp
+**/*.swp
+*.gem
+.bundle
+
+gemfiles/*.lock
+Gemfile.lock
+
+.rvmrc
+.rbenv-version
+.ruby-version
+.ruby-gemset
+/tmp

@@ -1,0 +1,29 @@
+---
+BA:
+  name: Bafatá
+  names: Bafatá
+BL:
+  name: Bolama
+  names: Bolama
+BM:
+  name: Biombo
+  names: Biombo
+BS:
+  name: Bissau
+  names: Bissau
+CA:
+  name: Cacheu
+  names:
+    - Cacheo
+GA:
+  name: Gabú
+  names: Gabú
+OI:
+  name: Oio
+  names: Oio
+QU:
+  name: Quinara
+  names: Quinara
+TO:
+  name: Tombali
+  names: Tombali

@@ -1,0 +1,79 @@
+---
+? "01"
+:
+  name: Aveiro
+  names: Aveiro
+? "02"
+:
+  name: Beja
+  names: Beja
+? "03"
+:
+  name: Braga
+  names: Braga
+? "04"
+:
+  name: Bragança
+  names: Bragança
+? "05"
+:
+  name: "Castelo Branco"
+  names: "Castelo Branco"
+? "06"
+:
+  name: Coimbra
+  names: Coimbra
+? "07"
+:
+  name: Évora
+  names: Évora
+08:
+  name: Faro
+  names: Faro
+09:
+  name: Guarda
+  names: Guarda
+? "10"
+:
+  name: Leiria
+  names: Leiria
+? "11"
+:
+  name: Lisboa
+  names: Lisboa
+? "12"
+:
+  name: Portalegre
+  names: Portalegre
+? "13"
+:
+  name: Porto
+  names: Porto
+? "14"
+:
+  name: Santarém
+  names: Santarém
+? "15"
+:
+  name: Setúbal
+  names: Setúbal
+? "16"
+:
+  name: "Viana do Castelo"
+  names: "Viana do Castelo"
+? "17"
+:
+  name: "Vila Real"
+  names: "Vila Real"
+? "18"
+:
+  name: Viseu
+  names: Viseu
+? "20"
+:
+  name: "Região Autónoma dos Açores"
+  names: "Região Autónoma dos Açores"
+? "30"
+:
+  name: "Região Autónoma da Madeira"
+  names: "Região Autónoma da Madeira"

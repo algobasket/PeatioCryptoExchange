@@ -1,0 +1,58 @@
+---
+AN:
+  name: "Atlántico Norte*"
+  names:
+    - RAAN
+    - "Región Autónoma Atlántico Norte"
+    - "Zelaya Norte"
+AS:
+  name: "Atlántico Sur*"
+  names:
+    - RAAS
+    - "Región Autónoma Atlántico Sur"
+    - "Zelaya Sur"
+BO:
+  name: Boaco
+  names: Boaco
+CA:
+  name: Carazo
+  names: Carazo
+CI:
+  name: Chinandega
+  names: Chinandega
+CO:
+  name: Chontales
+  names: Chontales
+ES:
+  name: Estelí
+  names: Estelí
+GR:
+  name: Granada
+  names: Granada
+JI:
+  name: Jinotega
+  names: Jinotega
+LE:
+  name: León
+  names: León
+MD:
+  name: Madriz
+  names: Madriz
+MN:
+  name: Managua
+  names: Managua
+MS:
+  name: Masaya
+  names: Masaya
+MT:
+  name: Matagalpa
+  names: Matagalpa
+NS:
+  name: "Nueva Segovia"
+  names: "Nueva Segovia"
+RI:
+  name: Rivas
+  names: Rivas
+SJ:
+  name: "Río San Juan"
+  names: "Río San Juan"

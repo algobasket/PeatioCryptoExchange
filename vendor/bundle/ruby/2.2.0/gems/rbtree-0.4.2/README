@@ -1,0 +1,83 @@
+= Ruby/RBTree
+
+== Description
+
+A RBTree is a sorted associative collection that is implemented with a
+Red-Black Tree. It maps keys to values like a Hash, but maintains its
+elements in ascending key order. The interface is the almost identical
+to that of Hash.
+
+A Red-Black Tree is a kind of binary tree that automatically balances
+by itself when a node is inserted or deleted. Lookup, insertion, and
+deletion are performed in O(log N) time in the expected and worst
+cases. On the other hand, the average case complexity of
+lookup/insertion/deletion on a Hash is constant time. A Hash is
+usually faster than a RBTree where ordering is unimportant.
+
+The elements of a RBTree are sorted using the <=> method of their keys
+or a Proc set by the readjust method. It means all keys should be
+comparable with each other or a Proc that takes two keys should return
+a negative integer, 0, or a positive integer as the first argument is
+less than, equal to, or greater than the second one.
+
+RBTree also provides a few additional methods to take advantage of the
+ordering:
+
+* lower_bound, upper_bound, bound
+* first, last
+* shift, pop
+* reverse_each
+
+== Example
+
+A RBTree cannot contain duplicate keys. Use MultiRBTree that is the
+parent class of RBTree to store duplicate keys.
+
+  require "rbtree"
+  
+  rbtree = RBTree["c", 10, "a", 20]
+  rbtree["b"] = 30
+  p rbtree["b"]              # => 30
+  rbtree.each do |k, v|
+    p [k, v]
+  end                        # => ["a", 20] ["b", 30] ["c", 10]
+  
+  mrbtree = MultiRBTree["c", 10, "a", 20, "e", 30, "a", 40]
+  p mrbtree.lower_bound("b") # => ["c", 10]
+  mrbtree.bound("a", "d") do |k, v|
+    p [k, v]
+  end                        # => ["a", 20] ["a", 40] ["c", 10]
+
+Note: a RBTree cannot be modified during iteration.
+
+== Installation
+
+Run the following command.
+
+  $ sudo gem install rbtree
+
+== Changes
+=== 0.4.2
+* Fixed build failure with Ruby 2.1.0.
+
+=== 0.4.1
+* Fixed a crash that could be triggered when GC happened.
+
+=== 0.4.0
+
+* Fixed build failure with Ruby 2.0.0.
+* \#bound now returns an enumerator if no block is given.
+* \#select now returns a new MultiRBTree / RBTree.
+* Fixed a bug where \#reject could return nil.
+* \#to_s is now equivalent to \#inspect.
+* \#each now passes a two elements array as an argument to the given block.
+* Added new methods: \#default_proc=, \#flatten, \#keep_if, \#key, \#select! and \#to_h.
+
+== License
+
+MIT License. Copyright (c) 2002-2013 OZAWA Takuma.
+
+dict.c and dict.h are modified copies that are originally in Kazlib
+1.20 written by Kaz Kylheku. Its license is similar to the MIT
+license. See dict.c and dict.h for the details. The web page of Kazlib
+is at http://www.kylheku.com/~kaz/kazlib.html.

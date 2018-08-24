@@ -1,0 +1,36 @@
+---
+AA:
+  name: "Adis Abeba"
+  names: "Adis Abeba"
+AF:
+  name: Afar
+  names:
+    - Affar
+AM:
+  name: Amara
+  names: Amara
+BE:
+  name: "Binshangul Gumuz"
+  names: "Binshangul Gumuz"
+DD:
+  name: "Dire Dawa"
+  names: "Dire Dawa"
+GA:
+  name: "Gambela Hizboch"
+  names:
+    - Gambela
+HA:
+  name: "Hareri Hizb"
+  names: "Hareri Hizb"
+OR:
+  name: Oromiya
+  names: Oromiya
+SN:
+  name: "YeDebub Biheroch Bihereseboch na Hizboch"
+  names: "YeDebub Biheroch Bihereseboch na Hizboch"
+SO:
+  name: Sumale
+  names: Sumale
+TI:
+  name: Tigray
+  names: Tigray

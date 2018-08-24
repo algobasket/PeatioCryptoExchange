@@ -1,0 +1,97 @@
+---
+AGU:
+  name: Aguascalientes
+  names: Aguascalientes
+BCN:
+  name: "Baja California"
+  names: "Baja California"
+BCS:
+  name: "Baja California Sur"
+  names: "Baja California Sur"
+CAM:
+  name: Campeche
+  names: Campeche
+CHH:
+  name: Chihuahua
+  names: Chihuahua
+CHP:
+  name: Chiapas
+  names: Chiapas
+COA:
+  name: Coahuila
+  names: Coahuila
+COL:
+  name: Colima
+  names: Colima
+DIF:
+  name: "Distrito Federal"
+  names: "Distrito Federal"
+DUR:
+  name: Durango
+  names: Durango
+GRO:
+  name: Guerrero
+  names: Guerrero
+GUA:
+  name: Guanajuato
+  names: Guanajuato
+HID:
+  name: Hidalgo
+  names: Hidalgo
+JAL:
+  name: Jalisco
+  names: Jalisco
+MEX:
+  name: México
+  names: México
+MIC:
+  name: Michoacán
+  names: Michoacán
+MOR:
+  name: Morelos
+  names: Morelos
+NAY:
+  name: Nayarit
+  names: Nayarit
+NLE:
+  name: "Nuevo León"
+  names: "Nuevo León"
+OAX:
+  name: Oaxaca
+  names: Oaxaca
+PUE:
+  name: Puebla
+  names: Puebla
+QUE:
+  name: Querétaro
+  names: Querétaro
+ROO:
+  name: "Quintana Roo"
+  names: "Quintana Roo"
+SIN:
+  name: Sinaloa
+  names: Sinaloa
+SLP:
+  name: "San Luis Potosí"
+  names: "San Luis Potosí"
+SON:
+  name: Sonora
+  names: Sonora
+TAB:
+  name: Tabasco
+  names: Tabasco
+TAM:
+  name: Tamaulipas
+  names: Tamaulipas
+TLA:
+  name: Tlaxcala
+  names: Tlaxcala
+VER:
+  name: Veracruz
+  names: Veracruz
+YUC:
+  name: Yucatán
+  names: Yucatán
+ZAC:
+  name: Zacatecas
+  names: Zacatecas

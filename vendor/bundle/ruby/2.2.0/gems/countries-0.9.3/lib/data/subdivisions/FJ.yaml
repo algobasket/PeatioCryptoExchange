@@ -1,0 +1,17 @@
+---
+C:
+  name: Central
+  names: Central
+E:
+  name: Eastern
+  names: Eastern
+? "N"
+:
+  name: Northern
+  names: Northern
+R:
+  name: Rotuma
+  names: Rotuma
+W:
+  name: Western
+  names: Western

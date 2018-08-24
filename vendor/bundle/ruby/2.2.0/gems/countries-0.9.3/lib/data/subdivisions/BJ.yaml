@@ -1,0 +1,39 @@
+---
+AK:
+  name: Atakora
+  names:
+    - Atakora
+AL:
+  name: Alibori
+  names: Alibori
+AQ:
+  name: Atlantique
+  names: Atlantique
+BO:
+  name: Borgou
+  names: Borgou
+CO:
+  name: Collines
+  names: Collines
+DO:
+  name: Donga
+  names: Donga
+KO:
+  name: Kouffo
+  names:
+    - Kouffo
+LI:
+  name: Littoral
+  names: Littoral
+MO:
+  name: Mono
+  names: Mono
+OU:
+  name: Ouémé
+  names: Ouémé
+PL:
+  name: Plateau
+  names: Plateau
+ZO:
+  name: Zou
+  names: Zou

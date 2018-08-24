@@ -1,0 +1,101 @@
+---
+AMA:
+  name: Amazonas
+  names: Amazonas
+ANT:
+  name: Antioquia
+  names: Antioquia
+ARA:
+  name: Arauca
+  names: Arauca
+ATL:
+  name: Atlántico
+  names: Atlántico
+BOL:
+  name: Bolívar
+  names: Bolívar
+BOY:
+  name: Boyacá
+  names: Boyacá
+CAL:
+  name: Caldas
+  names: Caldas
+CAQ:
+  name: Caquetá
+  names: Caquetá
+CAS:
+  name: Casanare
+  names: Casanare
+CAU:
+  name: Cauca
+  names: Cauca
+CES:
+  name: Cesar
+  names: Cesar
+CHO:
+  name: Chocó
+  names: Chocó
+COR:
+  name: Córdoba
+  names: Córdoba
+CUN:
+  name: Cundinamarca
+  names: Cundinamarca
+DC:
+  name: "Distrito Capital de Bogotá"
+  names:
+    - "Santafé de Bogotá Distrito Capital"
+GUA:
+  name: Guainía
+  names: Guainía
+GUV:
+  name: Guaviare
+  names: Guaviare
+HUI:
+  name: Huila
+  names: Huila
+LAG:
+  name: "La Guajira"
+  names: "La Guajira"
+MAG:
+  name: Magdalena
+  names: Magdalena
+MET:
+  name: Meta
+  names: Meta
+NAR:
+  name: Nariño
+  names: Nariño
+NSA:
+  name: "Norte de Santander"
+  names: "Norte de Santander"
+PUT:
+  name: Putumayo
+  names: Putumayo
+QUI:
+  name: Quindío
+  names: Quindío
+RIS:
+  name: Risaralda
+  names: Risaralda
+SAN:
+  name: Santander
+  names: Santander
+SAP:
+  name: "San Andrés, Providencia y Santa Catalina"
+  names: "San Andrés, Providencia y Santa Catalina"
+SUC:
+  name: Sucre
+  names: Sucre
+TOL:
+  name: Tolima
+  names: Tolima
+VAC:
+  name: "Valle del Cauca"
+  names: "Valle del Cauca"
+VAU:
+  name: Vaupés
+  names: Vaupés
+VID:
+  name: Vichada
+  names: Vichada

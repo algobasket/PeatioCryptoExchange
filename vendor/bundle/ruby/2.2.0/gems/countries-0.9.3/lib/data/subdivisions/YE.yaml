@@ -1,0 +1,85 @@
+---
+AB:
+  name: Abyan
+  names: Abyan
+AD:
+  name: ʿAdan
+  names:
+    - Adan
+    - ʿAdan
+    - Aden
+    - Aden
+    - Adén
+AM:
+  name: "'Amran"
+  names: "'Amran"
+BA:
+  name: "Al Bay?a'"
+  names:
+    - "Al Baida"
+DA:
+  name: "Ad¸ D¸ali'"
+  names: "Ad¸ D¸ali'"
+DH:
+  name: Dhamar
+  names:
+    - Dhamar
+    - Dhomar
+    - Đomar
+HD:
+  name: Hadramawt
+  names:
+    - Hadramout
+HJ:
+  name: Hajjah
+  names: Hajjah
+HU:
+  name: "Al ?udaydah"
+  names:
+    - Hodeida
+    - Hodeidah
+    - Hodeïah
+    - H̨udaydah
+    - al-Hudaydah
+IB:
+  name: Ibb
+  names: Ibb
+JA:
+  name: "Al Jawf"
+  names: "Al Jawf"
+LA:
+  name: La?ij
+  names:
+    - Lahej
+    - Lahj
+MA:
+  name: Ma'rib
+  names:
+    - Marab
+    - Mareb
+MR:
+  name: "Al Mahrah"
+  names: "Al Mahrah"
+MW:
+  name: "Al Mahwit"
+  names: "Al Mahwit"
+SD:
+  name: Sa`dah
+  names:
+    - Saʿadah
+SH:
+  name: Shabwah
+  names:
+    - Shabwah
+SN:
+  name: Sanʿā
+  names:
+    - Sana
+    - Sanaa
+    - Sanaʿa
+    - "Sanaʿa City"
+    - Sanʿaʿ
+TA:
+  name: Taʿizz
+  names:
+    - Taiz

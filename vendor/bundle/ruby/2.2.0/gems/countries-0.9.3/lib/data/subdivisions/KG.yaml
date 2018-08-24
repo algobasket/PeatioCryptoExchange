@@ -1,0 +1,39 @@
+---
+B:
+  name: Batken
+  names: Batken
+C:
+  name: Chü
+  names:
+    - Chu
+    - Chui
+    - Chuy
+    - Çüy
+GB:
+  name: Bishkek
+  names:
+    - Bishkek
+    - "Kenesh Bishkek"
+J:
+  name: Jalal-Abad
+  names: Jalal-Abad
+? "N"
+:
+  name: Naryn
+  names:
+    - Naryn
+O:
+  name: Osh
+  names:
+    - Osh
+T:
+  name: Talas
+  names: Talas
+? "Y"
+:
+  name: Ysyk-Köl
+  names:
+    - Balikchi
+    - Balykchy
+    - Balıkçı
+    - Issyk-Kul

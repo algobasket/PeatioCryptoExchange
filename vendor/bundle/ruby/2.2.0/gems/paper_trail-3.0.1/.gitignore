@@ -1,0 +1,16 @@
+NOTES
+test/debug.log
+test/paper_trail_plugin.sqlite3.db
+test/dummy/db/*.sqlite3
+test/dummy/log/*
+test/dummy/tmp/*
+spec/dummy/
+coverage
+pkg/*
+*.gem
+.bundle
+.rbenv-version
+Gemfile.lock
+vendor/*
+.idea
+.rvmrc

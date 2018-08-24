@@ -1,0 +1,161 @@
+---
+AB:
+  name: Alba
+  names: Alba
+AG:
+  name: Arges
+  names:
+    - Arges
+AR:
+  name: Arad
+  names: Arad
+B:
+  name: Bucuresti
+  names:
+    - Bucuresti
+    - Bucureşti
+    - Bukarest
+    - Bucarest
+    - Bucarest
+BC:
+  name: Bacau
+  names:
+    - Bacau
+BH:
+  name: Bihor
+  names: Bihor
+BN:
+  name: Bistrita-Nasaud
+  names:
+    - Bistrita-Nasaud
+BR:
+  name: Braila
+  names:
+    - Braila
+BT:
+  name: Botosani
+  names:
+    - Botosani
+BV:
+  name: Brasov
+  names:
+    - Brasov
+BZ:
+  name: Buzau
+  names:
+    - Buzau
+CJ:
+  name: Cluj
+  names: Cluj
+CL:
+  name: Calarasi
+  names:
+    - Calarasi
+CS:
+  name: Caras-Severin
+  names:
+    - Caras-Severin
+CT:
+  name: Constanta
+  names:
+    - Constanta
+    - Konstanza
+CV:
+  name: Covasna
+  names: Covasna
+DB:
+  name: Dâmbovita
+  names:
+    - Dambovita
+    - Dimbovita
+    - Dîmboviţa
+DJ:
+  name: Dolj
+  names: Dolj
+GJ:
+  name: Gorj
+  names: Gorj
+GL:
+  name: Galati
+  names:
+    - Galati
+    - Galatz
+GR:
+  name: Giurgiu
+  names: Giurgiu
+HD:
+  name: Hunedoara
+  names: Hunedoara
+HR:
+  name: Harghita
+  names: Harghita
+IF:
+  name: Ilfov
+  names:
+    - "Sectorul Agricol Ilfov"
+IL:
+  name: Ialomita
+  names:
+    - Ialomita
+IS:
+  name: Iasi
+  names:
+    - Iasi
+    - Jasch
+    - Jassy
+    - Yassy
+MH:
+  name: Mehedinti
+  names:
+    - Mehedinti
+MM:
+  name: Maramures
+  names:
+    - Maramures
+MS:
+  name: Mures
+  names:
+    - Mures
+NT:
+  name: Neamt
+  names:
+    - Neamt
+OT:
+  name: Olt
+  names: Olt
+PH:
+  name: Prahova
+  names: Prahova
+SB:
+  name: Sibiu
+  names: Sibiu
+SJ:
+  name: Salaj
+  names:
+    - Salaj
+SM:
+  name: "Satu Mare"
+  names: "Satu Mare"
+SV:
+  name: Suceava
+  names: Suceava
+TL:
+  name: Tulcea
+  names: Tulcea
+TM:
+  name: Timis
+  names:
+    - Timis
+TR:
+  name: Teleorman
+  names: Teleorman
+VL:
+  name: Vâlcea
+  names:
+    - Vîlcea
+VN:
+  name: Vrancea
+  names: Vrancea
+VS:
+  name: Vaslui
+  names: Vaslui

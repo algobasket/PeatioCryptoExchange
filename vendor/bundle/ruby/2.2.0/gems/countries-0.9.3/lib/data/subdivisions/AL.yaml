@@ -1,0 +1,115 @@
+---
+BR:
+  name: Berat
+  names: Berat
+BU:
+  name: Bulqizë
+  names: Bulqizë
+DI:
+  name: Dibër
+  names:
+    - Dibër
+DL:
+  name: Delvinë
+  names: Delvinë
+DR:
+  name: Durrës
+  names: Durrës
+DV:
+  name: Devoll
+  names:
+    - Devoli
+EL:
+  name: Elbasan
+  names: Elbasan
+ER:
+  name: Kolonjë
+  names: Kolonjë
+FR:
+  name: Fier
+  names: Fier
+GJ:
+  name: Gjirokastër
+  names: Gjirokastër
+GR:
+  name: Gramsh
+  names: Gramsh
+HA:
+  name: Has
+  names: Has
+KA:
+  name: Kavajë
+  names: Kavajë
+KB:
+  name: Kurbin
+  names: Kurbin
+KC:
+  name: Kuçovë
+  names: Kuçovë
+KO:
+  name: Korçë
+  names: Korçë
+KR:
+  name: Krujë
+  names: Krujë
+KU:
+  name: Kukës
+  names: Kukës
+LB:
+  name: Librazhd
+  names: Librazhd
+LE:
+  name: Lezhë
+  names: Lezhë
+LU:
+  name: Lushnjë
+  names: Lushnjë
+MK:
+  name: Mallakastër
+  names: Mallakastër
+MM:
+  name: "Malësi e Madhe"
+  names:
+    - "Malesia e Madhe"
+MR:
+  name: Mirditë
+  names: Mirditë
+MT:
+  name: Mat
+  names: Mat
+PG:
+  name: Pogradec
+  names: Pogradec
+PQ:
+  name: Peqin
+  names: Peqin
+PR:
+  name: Përmet
+  names: Përmet
+PU:
+  name: Pukë
+  names: Pukë
+SH:
+  name: Shkodër
+  names: Shkodër
+SK:
+  name: Skrapar
+  names: Skrapar
+SR:
+  name: Sarandë
+  names: Sarandë
+TE:
+  name: Tepelenë
+  names: Tepelenë
+TP:
+  name: Tropojë
+  names: Tropojë
+TR:
+  name: Tiranë
+  names:
+    - Tiranë
+    - Tirana
+    - Tirana
+VL:
+  name: Vlorë
+  names: Vlorë

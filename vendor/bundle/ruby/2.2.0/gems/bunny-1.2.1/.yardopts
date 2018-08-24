@@ -1,0 +1,8 @@
+--no-private
+--protected
+--markup="markdown" lib/**/*.rb
+--main README.md
+--hide-tag todo
+-
+LICENSE
+ChangeLog.md

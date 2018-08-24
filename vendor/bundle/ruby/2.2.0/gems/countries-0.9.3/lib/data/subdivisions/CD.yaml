@@ -1,0 +1,38 @@
+---
+BC:
+  name: Bas-Congo
+  names:
+    - Bas-Zaire
+BN:
+  name: Bandundu
+  names: Bandundu
+EQ:
+  name: Équateur
+  names: Équateur
+KA:
+  name: Katanga
+  names:
+    - Shaba
+KE:
+  name: Kasai-Oriental
+  names: Kasai-Oriental
+KN:
+  name: Kinshasa
+  names: Kinshasa
+KW:
+  name: Kasai-Occidental
+  names: Kasai-Occidental
+MA:
+  name: Maniema
+  names: Maniema
+NK:
+  name: Nord-Kivu
+  names: Nord-Kivu
+OR:
+  name: Orientale
+  names:
+    - Haut-Zaire
+    - Orientale
+SK:
+  name: Sud-Kivu
+  names: Sud-Kivu

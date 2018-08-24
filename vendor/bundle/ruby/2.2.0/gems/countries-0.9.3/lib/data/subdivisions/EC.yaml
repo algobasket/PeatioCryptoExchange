@@ -1,0 +1,75 @@
+---
+A:
+  name: Azuay
+  names: Azuay
+B:
+  name: Bolívar
+  names: Bolívar
+C:
+  name: Carchi
+  names: Carchi
+D:
+  name: Orellana
+  names: Orellana
+E:
+  name: Esmeraldas
+  names: Esmeraldas
+F:
+  name: Cañar
+  names: Cañar
+G:
+  name: Guayas
+  names: Guayas
+H:
+  name: Chimborazo
+  names: Chimborazo
+I:
+  name: Imbabura
+  names: Imbabura
+L:
+  name: Loja
+  names: Loja
+M:
+  name: Manabí
+  names: Manabí
+? "N"
+:
+  name: Napo
+  names: Napo
+O:
+  name: "El Oro"
+  names: "El Oro"
+P:
+  name: Pichincha
+  names: Pichincha
+R:
+  name: "Los Ríos"
+  names: "Los Ríos"
+S:
+  name: Morona-Santiago
+  names: Morona-Santiago
+T:
+  name: Tungurahua
+  names: Tungurahua
+U:
+  name: Sucumbíos
+  names: Sucumbíos
+W:
+  name: Galápagos
+  names: Galápagos
+X:
+  name: Cotopaxi
+  names: Cotopaxi
+X1~:
+  name: "Santa Elena"
+  names: "Santa Elena"
+X2~:
+  name: "Santo Domingo de los Tsachilas"
+  names: "Santo Domingo de los Tsachilas"
+? "Y"
+:
+  name: Pastaza
+  names: Pastaza
+Z:
+  name: Zamora-Chinchipe
+  names: Zamora-Chinchipe

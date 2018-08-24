@@ -1,0 +1,43 @@
+---
+AH:
+  name: Ahuachapán
+  names: Ahuachapán
+CA:
+  name: Cabañas
+  names: Cabañas
+CH:
+  name: Chalatenango
+  names: Chalatenango
+CU:
+  name: Cuscatlán
+  names: Cuscatlán
+LI:
+  name: "La Libertad"
+  names: "La Libertad"
+MO:
+  name: Morazán
+  names: Morazán
+PA:
+  name: "La Paz"
+  names: "La Paz"
+SA:
+  name: "Santa Ana"
+  names: "Santa Ana"
+SM:
+  name: "San Miguel"
+  names: "San Miguel"
+SO:
+  name: Sonsonate
+  names: Sonsonate
+SS:
+  name: "San Salvador"
+  names: "San Salvador"
+SV:
+  name: "San Vicente"
+  names: "San Vicente"
+UN:
+  name: "La Unión"
+  names: "La Unión"
+US:
+  name: Usulután
+  names: Usulután

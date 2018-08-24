@@ -1,0 +1,49 @@
+#!/usr/bin/env ruby
+
+$:.unshift File.expand_path('../../lib', __FILE__)
+require 'liability-proof'
+require 'optparse'
+
+options = {}
+
+opt_parser = OptionParser.new do |opt|
+  opt.banner = "Usage: #{$0} COMMAND [OPTIONS]"
+  opt.separator ""
+  opt.separator "Commands"
+  opt.separator "    generate    (g):  generate json of root node and partial trees"
+  opt.separator "    verify      (v):  verify specified partial tree is valid (matches root node)"
+  opt.separator "    prettyprint (pp): pretty print generated json"
+  opt.separator ""
+  opt.separator "Options"
+
+  opt.on("-f", "--file source.json", "Specify source file. For generate command, it should contain accounts data; for verify command, it should contain the partial tree; for prettyprint command it specify the json to print.") do |f|
+    options[:file] = f
+  end
+
+  opt.on("-r", "--root root.json", "Specify root node data file. For generate command it's the destination to write data; for verify command it's the source to read data.") do |f|
+    options[:root] = f
+  end
+
+  options[:partial_trees_dir] = 'partial_trees'
+  opt.on("--partial-trees-dir DIR", "Specify the directory to store generated partial tree json files, default to 'partial_trees'.") do |d|
+    options[:partial_trees_dir] = d
+  end
+
+  opt.on("-c", "--currency code", "Specify the currency code, used by root.json.") do |c|
+    options[:currency] = c
+  end
+
+end
+
+opt_parser.parse!
+
+case ARGV[0]
+when 'generate', 'g'
+  LiabilityProof::Generator.new(options).write!
+when 'verify', 'v'
+  LiabilityProof::Verifier.new(options).verify!
+when 'prettyprint', 'pp'
+  LiabilityProof::PrettyPrinter.new(options).print
+else
+  puts opt_parser
+end

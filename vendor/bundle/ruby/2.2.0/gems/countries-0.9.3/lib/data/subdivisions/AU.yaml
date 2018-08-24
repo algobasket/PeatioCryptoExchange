@@ -1,0 +1,25 @@
+---
+ACT:
+  name: "Australian Capital Territory"
+  names: "Australian Capital Territory"
+NSW:
+  name: "New South Wales"
+  names: "New South Wales"
+NT:
+  name: "Northern Territory"
+  names: "Northern Territory"
+QLD:
+  name: Queensland
+  names: Queensland
+SA:
+  name: "South Australia"
+  names: "South Australia"
+TAS:
+  name: Tasmania
+  names: Tasmania
+VIC:
+  name: Victoria
+  names: Victoria
+WA:
+  name: "Western Australia"
+  names: "Western Australia"

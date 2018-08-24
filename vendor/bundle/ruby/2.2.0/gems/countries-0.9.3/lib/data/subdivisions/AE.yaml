@@ -1,0 +1,28 @@
+---
+AJ:
+  name: "'Ajman"
+  names:
+    - Ujman
+AZ:
+  name: "Abu Z¸aby [Abu Dhabi]"
+  names:
+    - "Abu Zabi"
+    - "Abu Zaby"
+    - "Abū Z̨abī"
+    - "Abu Dhabi"
+    - "Abu Dhabi"
+DU:
+  name: "Dubayy [Dubai]"
+  names: "Dubayy [Dubai]"
+FU:
+  name: "Al Fujayrah"
+  names: "Al Fujayrah"
+RK:
+  name: "Ra’s al Khaymah"
+  names: "Ra’s al Khaymah"
+SH:
+  name: "Ash Shariqah [Sharjah]"
+  names: "Ash Shariqah [Sharjah]"
+UQ:
+  name: "Umm al Qaywayn"
+  names: "Umm al Qaywayn"

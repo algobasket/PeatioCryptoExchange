@@ -1,0 +1,34 @@
+---
+EC:
+  name: "Eastern Cape"
+  names:
+    - "Oos Kaap"
+FS:
+  name: "Free State"
+  names:
+    - Foreistata
+    - Vrystaat
+GT:
+  name: Gauteng
+  names:
+    - Pretoria-Witwatersrand-Vereeniging
+LP:
+  name: Limpopo
+  names: Limpopo
+MP:
+  name: Mpumalanga
+  names:
+    - eMpumalanga
+NC:
+  name: "Northern Cape"
+  names: "Northern Cape"
+NL:
+  name: Kwazulu-Natal
+  names: Kwazulu-Natal
+NW:
+  name: North-West
+  names: North-West
+WC:
+  name: "Western Cape"
+  names:
+    - "Wes Kaap"

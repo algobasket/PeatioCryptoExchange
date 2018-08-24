@@ -1,0 +1,30 @@
+---
+CE:
+  name: Central
+  names: Central
+GH:
+  name: Ghanzi
+  names:
+    - Ghansi
+    - Khanzi
+KG:
+  name: Kgalagadi
+  names: Kgalagadi
+KL:
+  name: Kgatleng
+  names: Kgatleng
+KW:
+  name: Kweneng
+  names: Kweneng
+NE:
+  name: North-East
+  names: North-East
+NW:
+  name: North-West
+  names: North-West
+SE:
+  name: South-East
+  names: South-East
+SO:
+  name: Southern
+  names: Southern

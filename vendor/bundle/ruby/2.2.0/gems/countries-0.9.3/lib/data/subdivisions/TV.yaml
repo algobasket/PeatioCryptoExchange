@@ -1,0 +1,27 @@
+---
+FUN:
+  name: Funafuti
+  names: Funafuti
+NIT:
+  name: Niutao
+  names: Niutao
+NIU:
+  name: Nui
+  names: Nui
+NKF:
+  name: Nukufetau
+  names: Nukufetau
+NKL:
+  name: Nukulaelae
+  names:
+    - Nukulailai
+NMA:
+  name: Nanumea
+  names: Nanumea
+NMG:
+  name: Nanumanga
+  names:
+    - Nanumaga
+VAI:
+  name: Vaitupu
+  names: Vaitupu
