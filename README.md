@@ -124,9 +124,6 @@ Peatio is released under the terms of the MIT license. See [http://peatio.mit-li
 
 ### DONATE
 
-**Every satoshi of your kind donation goes into the rerunning peatio again and making it active and adding support for new features and new 
-currencies.**
-
 **Bitcoin** address [36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6](https://blockchain.info/address/36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6)
 
 
