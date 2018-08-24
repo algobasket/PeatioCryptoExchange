@@ -118,8 +118,8 @@ Want to report a bug, request a feature, contribute or translate Peatio?
 
 * Browse our [issues](https://github.com/peatio/peatio/issues), comment on proposals, report bugs.
 * Clone the peatio repo, make some changes according to our development guidelines and issue a pull-request with your changes.
-* Anything you want to tell us please send it to [community@peatio.com](mailto:me@muhnagy.com)
-* If you need technical support or customization service, contact us: [sales@peatio.com](mailto:me@muhnagy.com)
+* Anything you want to tell us please send it to [community@peatio.com](mailto:algobasket@gmail.com)
+* If you need technical support or customization service, contact us: [sales@peatio.com](mailto:algobasket@gmail.com)
 
 
 ### License
@@ -132,16 +132,7 @@ Peatio is released under the terms of the MIT license. See [http://peatio.mit-li
 **Every satoshi of your kind donation goes into the rerunning peatio again and making it active and adding support for new features and new 
 currencies.**
 
-**Bitcoin** address [38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E](https://blockchain.info/address/38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E)
-
-**Ethereum** address [38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E](https://etherscan.io/address/0x4ba2474e063aec44e23f2bf7fb9e4e2878dbab44)
-
-
-### What is Peatio?
-
-[Peatio](http://en.wikipedia.org/wiki/Pixiu) (Chinese: 貔貅) is a Chinese mythical hybrid creature considered to be a very powerful protector to practitioners of Feng Shui.
-
-
+**Bitcoin** address [36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6](https://blockchain.info/address/36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6)
 
 
 # PeatioCryptoExchange
