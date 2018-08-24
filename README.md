@@ -1,5 +1,8 @@
 An open-source crypto currency exchange
 =====================================
+[![BitCoin](https://qolczpnfu7-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/bitcoin-cryptocurrency-big-icon-350x350-compressor.png)]
+[![Ethereum](https://qolczpnfu7-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/bitcoin-cryptocurrency-big-icon-350x350-compressor.png)]
+[![BCH](https://qolczpnfu7-flywheel.netdna-ssl.com/wp-content/uploads/2017/12/bitcoin-cryptocurrency-big-icon-350x350-compressor.png)]
 
 **I'M Back**
 
