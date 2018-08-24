@@ -1,4 +1,4 @@
-Peatio : The open-source crypto currency exchange in the world
+Peatio : The open-source crypto currency exchange 
 =====================================
 ![Bitcoin](https://appspicket.com/wp-content/uploads/2017/07/coins-2.png)
 
