@@ -1,8 +1,6 @@
 An open-source crypto currency exchange
 =====================================
-[![BitCoin](https://pizzaverona.ru/upload/medialibrary/137/bitcoin_logo_gold.png)]
-[![Ethereum](https://pizzaverona.ru/upload/medialibrary/137/bitcoin_logo_gold.png)]
-[![BCH](https://pizzaverona.ru/upload/medialibrary/137/bitcoin_logo_gold.png)]
+(https://appspicket.com/wp-content/uploads/2017/07/coins-2.png)]
 
 **I'M Back**
 
