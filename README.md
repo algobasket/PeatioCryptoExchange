@@ -131,4 +131,5 @@ currencies.**
 **Bitcoin** address [36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6](https://blockchain.info/address/36uSLDtaiBaRrQxgRdC3qdtevLhANBHfd6)
 
 
-# PeatioCryptoExchange
+# SKYPE : algobasket
+# EMAIL : algobasket@gmail.com
