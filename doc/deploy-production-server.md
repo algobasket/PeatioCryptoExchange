@@ -49,8 +49,8 @@ Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
 
 Install Ruby through rbenv:
 
-    rbenv install 2.2.1
-    rbenv global 2.2.1
+    rbenv install --verbose 2.2.2
+    rbenv global --verbose 2.2.2
 
 Install bundler
 
