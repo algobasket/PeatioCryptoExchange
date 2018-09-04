@@ -17,14 +17,14 @@ defaults: &defaults
   SMTP_PORT: 587
   SMTP_DOMAIN: mailgun.org
   SMTP_ADDRESS: smtp.mailgun.org
-  SMTP_USERNAME: postmaster@bongo.network
-  SMTP_PASSWORD : 0bc226886db6bc784caf9df0dad4be7e-a5d1a068-f5f1de2b
+  SMTP_USERNAME: postmaster@algobasket.network
+  SMTP_PASSWORD : < SMTP PASSWORD >
   SMTP_AUTHENTICATION: plain # could be plain, login or cram_md5
 
-  SUPPORT_MAIL: postmaster@bongo.network
-  SYSTEM_MAIL_FROM: postmaster@bongo.network
-  SYSTEM_MAIL_TO: postmaster@bongo.network
-  OPERATE_MAIL_TO: postmaster@bongo.network
+  SUPPORT_MAIL: postmaster@algobasket.network
+  SYSTEM_MAIL_FROM: postmaster@algobasket.network
+  SYSTEM_MAIL_TO: postmaster@algobasket.network
+  OPERATE_MAIL_TO: postmaster@algobasket.network
 
   # WebSocket Streaming API settings
   # --------------------------------------------------------------
@@ -59,8 +59,8 @@ defaults: &defaults
   # https://github.com/twilio/twilio-ruby
   #
   TWILIO_NUMBER: +16012286546
-  TWILIO_SID: AC7e1ae56c95f5b7ad46feedfd40f0d21f
-  TWILIO_TOKEN: 07872ae0cb0e2b4c40bdd1121cb2b7c3
+  TWILIO_SID: <TWILIO SID>
+  TWILIO_TOKEN: <TWILIO TOKEN>
 
 
   # Third party auth
