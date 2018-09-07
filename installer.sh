@@ -216,7 +216,7 @@ echo -e "\n\n"
 echo -e "\033[34;7mCloning Stable Peatio Repo\e[0m"
 
 mkdir -p ~/peatio
-git clone git://github.com/InfraexDev/peatio.git ~/peatio/current
+git clone git@github.com:algobasket/PeatioCryptoExchange.git ~/peatio/current
 cd peatio/current
 
 echo -e "\n\n"
