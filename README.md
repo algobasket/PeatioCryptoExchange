@@ -75,8 +75,8 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Getting Quick start using Installer
 
-  * Use installer.sh.x file to install it
-  * $ ./installer.sh.x  or sudo ./installer.sh.x
+  * Use installer.sh file to install it
+  * $ ./installer.sh  or sudo ./installer.sh or bash installer.sh
 
 ### Getting Manual start
 
