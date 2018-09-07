@@ -1,4 +1,0 @@
-SimplaCaptcha
-=============
-# Generate migration and copy view partial
-  rails generate simple_captcha

@@ -1,2 +1,0 @@
-peatio:amqp:trade_executor:3: process with pid 29777 started.
-I, [2018-08-08T16:47:51.681275 #29777]  INFO -- : Connected to AMQP broker (prefetch: 5)

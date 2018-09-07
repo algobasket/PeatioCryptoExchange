@@ -1,2 +1,0 @@
-dict.o: dict.c dict.h
-rbtree.o: rbtree.c dict.h

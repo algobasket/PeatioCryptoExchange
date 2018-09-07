@@ -1,3 +1,0 @@
-class SubClassing < Silencer
-  
-end
