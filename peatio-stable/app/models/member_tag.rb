@@ -1,0 +1,2 @@
+class MemberTag < ActiveYamlBase
+end
