@@ -1,4 +1,4 @@
-Peatio : The open-source crypto currency exchange 
+Peatio : The open-source crypto currency exchange
 =====================================
 ![Bitcoin](https://appspicket.com/wp-content/uploads/2017/07/coins-2.png)
 
@@ -73,12 +73,15 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 ** More details are in the [doc](doc).
 
 
-### Getting started
+### Getting Quick start using Installer
 
-* [Setup on Mac OS X](doc/setup-local-osx.md)
-* [Setup on Ubuntu](doc/setup-local-ubuntu.md)
-* [Deploy production server](doc/deploy-production-server.md)
-* [Setup Ethereum Server](doc/eth.md)
+  * Use installer.sh.x file to install it
+  * $ ./installer.sh.x  or sudo ./installer.sh.x
+
+### Getting Manual start
+
+  
+
 ### API
 
 You can interact with Peatio through API:
