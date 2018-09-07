@@ -12,7 +12,7 @@ Our mission is to build the world best open-source crypto currency exchange with
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 
-### Things You Should Know ###
+### Things You Should Know ### 
 
 RUNNING AN EXCHANGE IS HARD.
 
@@ -80,7 +80,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Getting Manual start
 
-  
+
 
 ### API
 
