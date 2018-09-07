@@ -30,7 +30,7 @@ sudo rm /var/lib/dpkg/lock
 sudo apt-get update
 echo -e "\n\n"
 echo -e "\033[34;7m- uninstalling nginx ..\e[0m"
-
+sudo service nginx stop
 sudo apt-get purge nginx*;
 sudo apt-get purge nginx;
 sudo apt-get update
@@ -81,7 +81,7 @@ sudo deluser redis
 
 echo -e "\n\n"
 echo -e "\033[34;7m- uninstalling Rabbitmq-server  ..\e[0m"
-
+sudo -u rabbitmq rabbitmqctl stop
 sudo apt-get remove rabbitmq-server
 sudo apt-get remove --auto-remove rabbitmq-server
 sudo apt-get purge rabbitmq-server

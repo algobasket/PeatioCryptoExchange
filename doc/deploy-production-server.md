@@ -64,7 +64,7 @@ Install bundler
 
 ### 4. Install Redis
 
-    sudo apt install -y redis-server
+    sudo apt install -y redis-server 
 
 ### 5. Install RabbitMQ
 
@@ -125,7 +125,7 @@ Add HTTPS support to APT
 
     sudo apt-get install apt-transport-https ca-certificates
 
-Add the passenger repository. Note that this only works for Ubuntu 16.04. For other versions of Ubuntu, you have to add the appropriate
+Add the passenger repository. Note that this only works for Ubuntu 16.04. For other versions of Ubuntu, you have to add the appropriate 
 repository according to Section 2.3.1 of this [link](https://www.phusionpassenger.com/documentation/Users%20guide%20Nginx.html).
 
     sudo sh -c 'echo deb https://oss-binaries.phusionpassenger.com/apt/passenger xenial main > /etc/apt/sources.list.d/passenger.list'
@@ -149,8 +149,8 @@ update the second line to read:
     passenger_ruby /home/deploy/.rbenv/shims/ruby;
 
 we will alsp need to enable passenger in nginx config file
-
-    sudo vim /etc/nginx/nginx.conf
+  
+    sudo vim /etc/nginx/nginx.conf 
 
 and uncomment
 
@@ -251,3 +251,4 @@ For security reason, you must setup SSL Certificate for production environment, 
 
     # Add this rake task to your crontab so it runs regularly
     RAILS_ENV=production rake solvency:liability_proof
+
