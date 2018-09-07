@@ -12,7 +12,7 @@ Our mission is to build the world best open-source crypto currency exchange with
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 
-### Things You Should Know ### 
+### Things You Should Know ###
 
 RUNNING AN EXCHANGE IS HARD.
 
@@ -80,7 +80,10 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Getting Manual start
 
-
+* [Setup on Mac OS X](peatio-stable/doc/setup-local-osx.md)
+* [Setup on Ubuntu](peatio-stable/doc/setup-local-ubuntu.md)
+* [Deploy production server](peatio-stable/doc/deploy-production-server.md)
+* [Setup Ethereum Server](peatio-stable/doc/eth.md)
 
 ### API
 
