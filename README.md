@@ -75,8 +75,9 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Getting Quick start using Installer
 
-  * Use installer.sh file to install it
-  * $ ./installer.sh  or sudo ./installer.sh or bash installer.sh
+  * Use fresh-installer.sh file to install on fresh server
+  * Use rebuild-installer.sh file to repair/delete/old and then install
+  * To install manually please follow the docs
 
 ### Getting Manual start
 
