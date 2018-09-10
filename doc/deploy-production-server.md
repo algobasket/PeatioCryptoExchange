@@ -3,16 +3,16 @@ Deploy production server on Ubuntu 16.04
 
 ### Overview
 
-1. Setup deploy user
-2. Install [Ruby](https://www.ruby-lang.org/en/)
-3. Install [MySQL](http://www.mysql.com/)
-4. Install [Redis](http://redis.io/)
-5. Install [RabbitMQ](https://www.rabbitmq.com/)
-6. Install [Bitcoind](https://en.bitcoin.it/wiki/Bitcoind)
-7. Install [Nginx with Passenger](https://www.phusionpassenger.com/)
-8. Install JavaScript Runtime
-9. Install ImageMagick
-10. Configure Peatio
+ 1. Setup deploy user
+ 2. Install [Ruby](https://www.ruby-lang.org/en/)
+ 3. Install [MySQL](http://www.mysql.com/)
+ 4. Install [Redis](http://redis.io/)
+ 5. Install [RabbitMQ](https://www.rabbitmq.com/)
+ 6. Install [Bitcoind](https://en.bitcoin.it/wiki/Bitcoind)
+ 7. Install [Nginx with Passenger](https://www.phusionpassenger.com/)
+ 8. Install JavaScript Runtime
+ 9. Install ImageMagick
+10. Configure Peatio 
 
 ### 1. Setup deploy user
 
