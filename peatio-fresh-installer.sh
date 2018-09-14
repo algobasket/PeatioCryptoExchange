@@ -18,6 +18,9 @@ echo -e "\n\n"
 echo -e "\033[34;7mWelcome to Peatio Crypto Exchange v1.0 - Build by Algobasket\e[0m "
 echo -e "\n\n"
 
+rm -rf peatio
+rm -rf ~/.rbenv
+
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get -y install git-core curl zlib1g-dev build-essential \
