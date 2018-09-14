@@ -32,13 +32,14 @@ cd
 git clone git://github.com/sstephenson/rbenv.git .rbenv
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL &
 
 echo -e "\n\n"
 echo -e "\033[34;7mInstalling Ruby Build\e[0m"
 
 git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-
+exec $SHELL &
 
 rbenv install --verbose 2.2.2
 rbenv global 2.2.2
@@ -224,7 +225,7 @@ sudo rm /etc/nginx/sites-enabled/default
 sudo ln -s /home/deploy/peatio/config/nginx.conf /etc/nginx/conf.d/peatio.conf
 sudo service nginx restart
 
-echo -e "\n\n" 
+echo -e "\n\n"
 echo -e "\033[34;7mLiability Proof - Add this rake task to your crontab so it runs regularly\e[0m"
 
 RAILS_ENV=production rake solvency:liability_proof
