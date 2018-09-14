@@ -154,8 +154,9 @@ echo -e "\n\n"
 echo -e "\033[34;7mCloning Stable Peatio Repo\e[0m"
 
 mkdir -p ~/peatio
-git clone https://github.com/algobasket/PeatioCryptoExchange.git .
 cd peatio
+git clone https://github.com/algobasket/PeatioCryptoExchange.git .
+
 
 echo -e "\n\n"
 echo -e "\033[34;7mInstalling dependency gems\e[0m"
@@ -223,7 +224,7 @@ sudo rm /etc/nginx/sites-enabled/default
 sudo ln -s /home/deploy/peatio/config/nginx.conf /etc/nginx/conf.d/peatio.conf
 sudo service nginx restart
 
-echo -e "\n\n"
+echo -e "\n\n" 
 echo -e "\033[34;7mLiability Proof - Add this rake task to your crontab so it runs regularly\e[0m"
 
 RAILS_ENV=production rake solvency:liability_proof
