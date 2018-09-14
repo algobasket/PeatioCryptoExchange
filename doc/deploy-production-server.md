@@ -12,7 +12,7 @@ Deploy production server on Ubuntu 16.04
  7. Install [Nginx with Passenger](https://www.phusionpassenger.com/)
  8. Install JavaScript Runtime
  9. Install ImageMagick
-10. Configure Peatio 
+10. Configure Peatio
 
 ### 1. Setup deploy user
 
@@ -177,8 +177,9 @@ A JavaScript Runtime is needed for Asset Pipeline to work. Any runtime will do b
 ##### Clone the Source
 
     mkdir -p ~/peatio
-    git clone git@github.com:algobasket/PeatioCryptoExchange.git ~/peatio/current
-    cd peatio/current
+    cd peatio
+    git clone https://github.com/algobasket/PeatioCryptoExchange.git .
+
 
     ＃ Install dependency gems
     bundle install --without development test --path vendor/bundle
@@ -244,7 +245,7 @@ For security reason, you must setup SSL Certificate for production environment, 
 **Passenger:**
 
     sudo rm /etc/nginx/sites-enabled/default
-    sudo ln -s /home/deploy/peatio/current/config/nginx.conf /etc/nginx/conf.d/peatio.conf
+    sudo ln -s /home/deploy/peatio/config/nginx.conf /etc/nginx/conf.d/peatio.conf
     sudo service nginx restart
 
 **Liability Proof**
