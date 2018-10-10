@@ -1,4 +1,5 @@
 fuser -k 3000/tcp
+kill -9 `cat tmp/pids/server.pid`
 echo ""
 echo ""
 echo "                0111001101110"
@@ -18,5 +19,5 @@ echo " 0100100001001000"
 echo "010010000100100001"
 echo "0010000100100001tQn"
 echo ""
-echo ""
-bundle exec rails server 
+echo "" 
+bundle exec rails s -p 3000
