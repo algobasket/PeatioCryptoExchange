@@ -20,4 +20,5 @@ echo "010010000100100001"
 echo "0010000100100001tQn"
 echo ""
 echo "" 
+sudo service nginx restart
 bundle exec rails s -p 3000
