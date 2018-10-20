@@ -11,10 +11,10 @@ header.text-center
             .col-xs-4
               a href="#{signup_path}" class="btn btn-default btn-block" role="button" = t("header.signup")
           - else
-            .col-xs-6.col-xs-offset-9.text-center
-              a href="#{market_path(current_market)}" class="btn btn-default btn-block" role="button" = t("header.getstart")
-              a href="#{funds_path}" class="btn btn-default btn-block" role="button" = t("header.funds")
-              a href="#{settings_path}" class="btn btn-default btn-block" role="button" = t("header.settings")
+            .btn-group
+              a href="#{market_path(current_market)}" class="btn btn-default" role="button" = t("header.getstart")
+              a href="#{funds_path}" class="btn btn-default" role="button" = t("header.funds")
+              a href="#{settings_path}" class="btn btn-default" role="button" = t("header.settings")
     center
         h2 style="font-weight:bolder" = t("slogan")
         a href="markets/btcusd" style="margin:5px"
