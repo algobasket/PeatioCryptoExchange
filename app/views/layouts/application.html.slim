@@ -5,8 +5,6 @@ html lang="en"
     = include_gon
     - stylesheet = content_for?(:stylesheet) ? yield(:stylesheet) : "application"
     = stylesheet_link_tag stylesheet, media: "all"
-    link href="https://fontawesome.bootstrapcheatsheets.com/build/css/fontawesome-cheatsheet.min.css" media="all" rel="stylesheet"
-    link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all" rel="stylesheet"
     = javascript_include_tag "application"
     = javascript_include_tag "locales/#{I18n.locale}"
     = yield(:scripts) if content_for?(:scripts)
