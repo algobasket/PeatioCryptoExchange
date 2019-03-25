@@ -30,7 +30,7 @@ Make sure your system is up-to-date.
     sudo apt-get update
     sudo apt-get upgrade
 
-Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
+Installing [rbenv](https://github.com/rbenv/) using a Installer
 
     sudo apt-get install git-core curl zlib1g-dev build-essential \
                          libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
@@ -38,19 +38,19 @@ Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
                          python-software-properties libffi-dev
 
     cd
-    git clone git://github.com/sstephenson/rbenv.git .rbenv
+    git clone https://github.com/rbenv/rbenv.git ~/.rbenv
     echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
     echo 'eval "$(rbenv init -)"' >> ~/.bashrc
     exec $SHELL
 
-    git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+    git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
     echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
     exec $SHELL
 
 Install Ruby through rbenv:
 
-    rbenv install --verbose 2.2.2
-    rbenv global 2.2.2
+    rbenv install -v 2.3.0
+    rbenv global 2.3.0
 
 Install bundler
 

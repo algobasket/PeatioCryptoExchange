@@ -21,7 +21,7 @@ Make sure your system is up-to-date.
     sudo apt-get update
     sudo apt-get upgrade
 
-Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
+Installing [rbenv](https://github.com/rbenv/) using a Installer
 
     sudo apt-get install git-core curl zlib1g-dev build-essential \
                          libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
@@ -29,18 +29,18 @@ Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
                          python-software-properties libffi-dev
 
     cd
-    git clone git://github.com/sstephenson/rbenv.git .rbenv
+    git clone https://github.com/rbenv/rbenv.git ~/.rbenv
     echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
     echo 'eval "$(rbenv init -)"' >> ~/.bashrc
     exec $SHELL
 
-    git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+    git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
     echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
     exec $SHELL
 
 Install Ruby through rbenv:
 
-    rbenv install 2.3.0
+    rbenv install -v 2.3.0
     rbenv global 2.3.0
 
 Install bundler
@@ -55,7 +55,7 @@ Install bundler
 
 ### Step 3: Install Redis
 
-You can follow this tutorial 
+You can follow this tutorial
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
 
 ### Step 4: Install RabbitMQ
@@ -139,8 +139,10 @@ A JavaScript Runtime is needed for Asset Pipeline to work. Any runtime will do b
 
 **Clone the project**
 
-    git clone git@github.com:InfraexDev/peatio.git
+    mkdir -p ~/peatio
     cd peatio
+    git clone https://github.com/algobasket/PeatioCryptoExchange.git .
+
     bundle install
 
 **Prepare configure files**
@@ -192,7 +194,7 @@ When daemons don't work, check `log/#{daemon name}.rb.output` or `log/peatio:amq
 **Run solvency**
 
     rake solvency:liability_proof
- 
+
 **Run Peatio**
 
     # start server
