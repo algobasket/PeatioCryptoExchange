@@ -125,13 +125,17 @@ Peatio is released under the terms of the MIT license. See [http://peatio.mit-li
 
 ### DONATE FOR MORE CONTRIBUTION AND SECURITY UPDATES
 
- ### Bitcoin   18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f
+ ### Bitcoin   
+     18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f
 
- ### ETHEREUM  0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815
+ ### ETHEREUM  
+     0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815
 
- ### BTC CASH  qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7
+ ### BTC CASH  
+     qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7
 
- ### STELLAR   GDO3ZSCEXB646XFKKCYNFXHGHNDGZMXBKQ6YA5TNCQZQVMWVMD2LJTHW
+ ### STELLAR   
+     GDO3ZSCEXB646XFKKCYNFXHGHNDGZMXBKQ6YA5TNCQZQVMWVMD2LJTHW
 
  ### Paypal    [https://paypal.me/algobasket](https://paypal.me/algobasket)
 
