@@ -17,8 +17,8 @@ git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-buil
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
 exec $SHELL &
 sudo apt-get update
-rbenv install --verbose 2.2.2
-rbenv global 2.2.2
+rbenv install -v 2.2.7
+rbenv global 2.2.7
 
 echo 'SECOND PART INSTALLED SUCCESSFULLY !'
 echo 'NOW USE THIRD PART PEATIO-INSTALLER-THREE.sh'
