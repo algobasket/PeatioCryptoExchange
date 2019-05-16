@@ -46,7 +46,7 @@ Install Ruby through rbenv:
 Install bundler
 
     echo "gem: --no-ri --no-rdoc" > ~/.gemrc
-    gem install bundler
+    gem install bundler -v 1.9.2
     rbenv rehash
 
 ### Step 2: Install MySQL

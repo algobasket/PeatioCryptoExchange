@@ -6,7 +6,7 @@ defaults: &defaults
   URL_HOST: localhost:3000
   URL_SCHEMA: http
   SESSION_EXPIRE: 60
-  ADMIN: 'admin@peatio.dev,admin@example.com'
+  ADMIN: 'admin@peatio.dev,admin@peatio.info'
   TIMEZONE: 'Cairo'
 
   REDIS_URL: redis://127.0.0.1:6379
@@ -21,10 +21,10 @@ defaults: &defaults
   SMTP_PASSWORD: YOUR_SMTP_PASSWORD
   SMTP_AUTHENTICATION: plain # could be plain, login or cram_md5
 
-  SUPPORT_MAIL: support@peatio.dev
-  SYSTEM_MAIL_FROM: system@peatio.dev
-  SYSTEM_MAIL_TO: group@peatio.dev
-  OPERATE_MAIL_TO: support@peatio.dev
+  SUPPORT_MAIL: support@peatio.info
+  SYSTEM_MAIL_FROM: system@peatio.info
+  SYSTEM_MAIL_TO: group@peatio.info
+  OPERATE_MAIL_TO: support@peatio.info
 
   # WebSocket Streaming API settings
   # --------------------------------------------------------------
@@ -67,9 +67,9 @@ defaults: &defaults
 
   # Weibo
   # --------------------------------------------------------------
-  WEIBO_AUTH: off # on/off
-  WEIBO_KEY: 3820920586
-  WEIBO_SECRET: 2d6174dc698e86860c75d75b1e8a01c8
+  # WEIBO_AUTH: off # on/off
+  # WEIBO_KEY: 3820920586
+  # WEIBO_SECRET: 2d6174dc698e86860c75d75b1e8a01c8
 
   # chat setting
   # --------------------------------------------------------------

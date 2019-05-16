@@ -1,16 +1,3 @@
-- id: 1
-  key: renminbi
-  code: cny
-  symbol: "¥"
-  coin: false
-  precision: 2
-  assets:
-    accounts:
-      -
-        bank: '招商银行'
-        address: '6225 0885 6022 3501'
-        password: '111111'
-        tel: '95555'
 - id: 2
   key: satoshi
   code: btc
@@ -29,7 +16,7 @@
   key: ether
   code: eth
   symbol: "฿"
-  coin: true
+  coin: true 
   main_address: YOUR_BASE_ADDRESS
   family: ETH
   precision: 4
