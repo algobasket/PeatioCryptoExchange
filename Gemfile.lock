@@ -64,7 +64,7 @@ GEM
       erubis (>= 2.6.6)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
-    bootstrap-sass (3.2.0.2)
+    bootstrap-sass (3.2.0.4)
       sass (~> 3.2)
     bootstrap-wysihtml5-rails (0.3.1.23)
       railties (>= 3.0)
@@ -269,7 +269,7 @@ GEM
       signature (~> 0.1.6)
     quiet_assets (1.0.2)
       railties (>= 3.1, < 5.0)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-attack (3.0.0)
@@ -421,7 +421,7 @@ DEPENDENCIES
   bcrypt-ruby (~> 3.1.2)
   better_errors
   binding_of_caller
-  bootstrap-sass (~> 3.2.0.2)
+  bootstrap-sass (~> 3.2.0.4)
   bootstrap-wysihtml5-rails
   bourbon
   browser (~> 0.8.0)
