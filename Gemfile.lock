@@ -52,7 +52,7 @@ GEM
       eventmachine
     angularjs-rails (1.3.15)
     arel (4.0.2)
-    atomic (1.1.99)
+    atomic (1.1.101)
     awesome_print (1.2.0)
     axiom-types (0.1.0)
       descendants_tracker (~> 0.0.3)
@@ -86,11 +86,11 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
-    carrierwave (0.10.0)
-      activemodel (>= 3.2.0)
-      activesupport (>= 3.2.0)
-      json (>= 1.7)
+    carrierwave (1.3.2)
+      activemodel (>= 4.0.0)
+      activesupport (>= 4.0.0)
       mime-types (>= 1.16)
+      ssrf_filter (~> 1.0)
     childprocess (0.4.0)
       ffi (~> 1.0, >= 1.0.11)
     chronic (0.10.2)
@@ -106,6 +106,7 @@ GEM
       execjs
     coffee-script-source (1.7.0)
     columnize (0.3.6)
+    concurrent-ruby (1.1.8)
     countries (0.9.3)
       currencies (~> 0.4.2)
     country_select (2.1.0)
@@ -190,7 +191,8 @@ GEM
     http_accept_language (2.0.1)
     http_parser.rb (0.6.0)
     httpclient (2.3.4.1)
-    i18n (0.7.0)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     ice_nine (0.11.0)
     jbuilder (2.0.2)
       activesupport (>= 3.0.0)
@@ -232,7 +234,7 @@ GEM
       metaclass (~> 0.0.1)
     momentjs-rails (2.5.1)
       railties (>= 3.1)
-    multi_json (1.10.1)
+    multi_json (1.15.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     mysql2 (0.3.21)
@@ -377,6 +379,7 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
+    ssrf_filter (1.0.7)
     structured_warnings (0.1.4)
     temple (0.6.7)
     test-unit (3.0.8)
@@ -390,7 +393,7 @@ GEM
       faraday (~> 0.9)
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
-    tzinfo (0.3.42)
+    tzinfo (0.3.60)
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
@@ -429,7 +432,7 @@ DEPENDENCIES
   byebug
   cancancan
   capybara
-  carrierwave (~> 0.10.0)
+  carrierwave (~> 1.3.2)
   coffee-rails
   country_select (~> 2.1.0)
   daemons-rails
