@@ -35,7 +35,7 @@ gem 'paper_trail', '~> 3.0.1'
 gem 'rails-observers'
 gem 'country_select', '~> 2.1.0'
 
-gem 'gon', '~> 5.2.0'
+gem 'gon', '~> 6.4.0'
 gem 'pusher'
 gem 'eventmachine', '~> 1.0.4'
 gem 'em-websocket', '~> 0.5.1'
