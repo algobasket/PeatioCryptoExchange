@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/InfraexDev/mina-slack.git
+  remote: https://github.com/InfraexDev/mina-slack.git
   revision: 5b7571a34f1979784720c0bfef555591e89ca3a7
   specs:
     mina-slack (0.0.3)
@@ -7,7 +7,7 @@ GIT
       rest-client (~> 1.6.7)
 
 GIT
-  remote: git://github.com/InfraexDev/unread.git
+  remote: https://github.com/InfraexDev/unread.git
   revision: b8fa0502e9558c93388a104bcbe20376cf43027d
   specs:
     unread (0.4.0)
@@ -106,6 +106,7 @@ GEM
       execjs
     coffee-script-source (1.7.0)
     columnize (0.3.6)
+    concurrent-ruby (1.1.10)
     countries (0.9.3)
       currencies (~> 0.4.2)
     country_select (2.1.0)
@@ -190,7 +191,8 @@ GEM
     http_accept_language (2.0.1)
     http_parser.rb (0.6.0)
     httpclient (2.3.4.1)
-    i18n (0.7.0)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     ice_nine (0.11.0)
     jbuilder (2.0.2)
       activesupport (>= 3.0.0)
