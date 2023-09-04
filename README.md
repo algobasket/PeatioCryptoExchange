@@ -1,7 +1,7 @@
 PEATIO v2.0 - An open-source crypto currency exchange
 ====================================================
 
-Installation Request or Bug Fixing, fill up the form below - 
+### Installation Request or Bug Fixing, fill up this form - ###
 [FILL UP THIS REQUEST FORM](https://docs.google.com/forms/d/1rkBwDWp8pth4XgapYo2oqZgof9kEicjkv-RiL9WKHVc)
 
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
