@@ -1,6 +1,8 @@
 PEATIO v2.0 - An open-source crypto currency exchange
 ====================================================
-https://blog.algobasket.com/2019/05/build-your-own-cryptocurrency-exchange.html
+
+Installation Request or Bug Fixing, fill up the form below - 
+[FILL UP THIS REQUEST FORM](https://docs.google.com/forms/d/1rkBwDWp8pth4XgapYo2oqZgof9kEicjkv-RiL9WKHVc)
 
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
 
@@ -121,21 +123,6 @@ Want to report a bug, request a feature, contribute or translate Peatio?
 
 Peatio is released under the terms of the MIT license. See [http://peatio.mit-license.org](http://peatio.mit-license.org) for more information.
 
-
-### DONATE
-
-**Every donation will help me to maintain updates and add new features and functionalities**
-
-**Bitcoin** address [18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f](https://blockchain.info/address/18dr92LBJsnEihqv85zgQfQD5oqr2HcR4f)
-
-**Ethereum** address [0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815](https://www.blockchain.com/eth/address/0xE0adAeD68598bFD1Fa66326FDfb9e8137Bc47815)
-
-**Bitcoin Cash** address [qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7](https://www.blockchain.com/bch/address/qz6qn7cyvxehrl5pfmgwkf0ql3garnlc5yqr6nv0n7)
-
-
-### What is Peatio?
-
-[Peatio](https://blog.algobasket.com/2019/05/build-your-own-cryptocurrency-exchange.html) (Chinese: 貔貅) is a Chinese mythical hybrid creature considered to be a very powerful protector to practitioners of Feng Shui.
 
 
 
