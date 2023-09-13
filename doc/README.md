@@ -1,6 +1,6 @@
 ## About docker
 
-We just use docker deploy and we don't ensure this `Dockerfile` working for your environment.
+We use docker deploy and don't ensure that the `Dockerfile` is working for your environment.
 
 ```
 cd peatio/doc/docker
@@ -38,7 +38,7 @@ Peatio requires Ruby (MRI) 2.1.0+. You will have to use the standard MRI impleme
 
 #### Storage
 
-If you run bitcoind at local, the necessary hard drive space largely depends on the size of the [blocks](https://en.bitcoin.it/wiki/Blocks) of Bitcoin network (30G for now). 100G is recommended at start.
+If you run bitcoind locally (which is not recommended), the necessary hard drive space depends on the size of the Bitcoin Blockchain (Now over 210 GB). 300G is recommended to start with.
 
 #### Supported browsers
 
