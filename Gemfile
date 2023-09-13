@@ -65,7 +65,7 @@ gem 'easy_table'
 gem 'phonelib', '~> 0.3.5'
 gem 'twilio-ruby', '~> 5.7.2'
 gem 'unread', github: 'InfraexDev/unread'
-gem 'carrierwave', '~> 0.10.0'
+gem 'carrierwave', '~> 1.3.2'
 gem 'simple_captcha2', require: 'simple_captcha'
 gem 'rest-client', '~> 1.6.8'
 
