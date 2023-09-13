@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/InfraexDev/mina-slack.git
+  remote: https://github.com/InfraexDev/mina-slack.git
   revision: 5b7571a34f1979784720c0bfef555591e89ca3a7
   specs:
     mina-slack (0.0.3)
@@ -7,7 +7,7 @@ GIT
       rest-client (~> 1.6.7)
 
 GIT
-  remote: git://github.com/InfraexDev/unread.git
+  remote: https://github.com/InfraexDev/unread.git
   revision: b8fa0502e9558c93388a104bcbe20376cf43027d
   specs:
     unread (0.4.0)
@@ -390,7 +390,7 @@ GEM
       faraday (~> 0.9)
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
-    tzinfo (0.3.42)
+    tzinfo (0.3.61)
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
