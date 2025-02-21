@@ -1,0 +1,32 @@
+name: Delete Comments with Links
+
+on:
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  check_comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COMMENT_BODY=$(jq -r '.comment.body' $GITHUB_EVENT_PATH)
+          COMMENT_USER=$(jq -r '.comment.user.login' $GITHUB_EVENT_PATH)
+          ALLOWED_USER="your-github-username"  # Change this to your GitHub username
+
+          if [[ "$COMMENT_USER" != "$ALLOWED_USER" ]] && echo "$COMMENT_BODY" | grep -E "http[s]?://"; then
+            COMMENT_ID=$(jq -r '.comment.id' $GITHUB_EVENT_PATH)
+            REPO="${{ github.repository }}"
+            
+            echo "Deleting comment with ID $COMMENT_ID by $COMMENT_USER"
+
+            curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+                 -H "Accept: application/vnd.github.v3+json" \
+                 "https://api.github.com/repos/$REPO/issues/comments/$COMMENT_ID"
+            
+            echo "Comment deleted."
+          else
+            echo "No link detected or comment is from an allowed user."
+          fi
