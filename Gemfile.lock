@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/InfraexDev/mina-slack.git
+  remote: https://github.com/InfraexDev/mina-slack.git
   revision: 5b7571a34f1979784720c0bfef555591e89ca3a7
   specs:
     mina-slack (0.0.3)
@@ -7,7 +7,7 @@ GIT
       rest-client (~> 1.6.7)
 
 GIT
-  remote: git://github.com/InfraexDev/unread.git
+  remote: https://github.com/InfraexDev/unread.git
   revision: b8fa0502e9558c93388a104bcbe20376cf43027d
   specs:
     unread (0.4.0)
@@ -226,7 +226,7 @@ GEM
     mina (0.3.0)
       open4
       rake
-    mini_portile (0.6.2)
+    mini_portile2 (2.8.0)
     minitest (4.7.5)
     mocha (1.0.0)
       metaclass (~> 0.0.1)
@@ -236,8 +236,9 @@ GEM
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     mysql2 (0.3.21)
-    nokogiri (1.6.5)
-      mini_portile (~> 0.6.0)
+    nokogiri (1.13.9)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     omniauth (1.2.2)
       hashie (>= 1.2, < 4)
       rack (~> 1.0)
@@ -269,6 +270,7 @@ GEM
       signature (~> 0.1.6)
     quiet_assets (1.0.2)
       railties (>= 3.1, < 5.0)
+    racc (1.6.0)
     rack (1.5.5)
     rack-accept (0.4.5)
       rack (>= 0.4)
