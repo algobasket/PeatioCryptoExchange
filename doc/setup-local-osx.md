@@ -1,4 +1,4 @@
-Setup local development environment on OS X
+Setup local development environment on Mac OS
 -------------------------------------
 
 ### Overview
@@ -109,7 +109,7 @@ Peatio uses Capybara with PhantomJS to do the feature tests, so if you want to r
 
     mkdir -p ~/peatio
     cd peatio
-    git clone https://algobasket@bitbucket.org/AlgoBasketTeam2018/peatio2.0.git .
+    git clone https://github.com/algobasket/PeatioCryptoExchange .
 
     bundle install
 
@@ -121,12 +121,12 @@ Peatio uses Capybara with PhantomJS to do the feature tests, so if you want to r
 
 * Peatio depends on [Pusher](http://pusher.com). A development key/secret pair for development/test is provided in `config/application.yml` (uncomment to use). PLEASE USE IT IN DEVELOPMENT/TEST ENVIRONMENT ONLY!
 
-More details to visit [pusher official website](http://pusher.com)
+More details to visit [Pusher official website](http://pusher.com)
 
     # uncomment Pusher related settings
     vim config/application.yml
 
-**Setup bitcoind rpc endpoint**
+**Setup bitcoind RPC endpoint**
 
     # replace username:password and port with the one you set in
     # username and password should only contain letters and numbers, do not use email as username
