@@ -19,7 +19,6 @@
 #= require es5-shim.min
 #= require es5-sham.min
 #= require jquery_ujs
-#= require bootstrap
 #
 #= require bignumber
 #= require moment

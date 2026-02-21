@@ -8,6 +8,7 @@ html lang="en"
     = javascript_include_tag "locales/#{I18n.locale}"
     = render 'shared/html5'
     = render 'shared/meta'
+    script src="https://cdn.tailwindcss.com"
     = csrf_meta_tags
   body id='#{body_id}' data-lang="#{locale_name}"
     #wrap

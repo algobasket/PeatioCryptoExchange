@@ -1,23 +1,45 @@
-header.text-center
-  .ribbon
-    a href="https://github.com/peatio/peatio" View on GitHub
-  .container
-    a href='http://github.com/peatio/peatio'
-      img src='#{image_path 'logo.png'}' width='336px'
-    section
-      - Rails.configuration.i18n.available_locales.each do |locale|
-        h3 = t(:slogan, locale: locale)
-    #getstart.row
-      - unless current_user
-        .col-xs-4.col-xs-offset-8
-          a href="#{signin_path}" class="btn btn-primary btn-lg btn-block" role="button" = t("header.signin")
-        - if ENV['WEIBO_AUTH'] == "true"
-          .col-xs-4
-            a href="/auth/weibo" class="btn btn-primary btn-lg btn-block" role="button" = t("header.login_via_weibo")
-        .col-xs-4
-          a href="#{signup_path}" class="btn btn-primary btn-lg btn-block" role="button" = t("header.signup")
-      - else
-        .col-xs-6.col-xs-offset-9.text-center
-          a href="#{market_path(current_market)}" class="btn btn-primary btn-lg btn-block" role="button" = t("header.getstart")
-          a href="#{funds_path}" class="btn btn-primary btn-lg btn-block" role="button" = t("header.funds")
-          a href="#{settings_path}" class="btn btn-primary btn-lg btn-block" role="button" = t("header.settings")
+main class="min-h-screen bg-slate-950 text-slate-100"
+  .relative.overflow-hidden
+    .absolute.inset-0.bg-gradient-to-br.from-indigo-600\/20.via-slate-900.to-slate-950
+    .absolute.-top-24.left-1\/2.h-72.w-72.-translate-x-1\/2.rounded-full.bg-cyan-400\/20.blur-3xl
+
+    .relative.mx-auto.max-w-6xl.px-6.py-16.lg:py-24
+      .flex.justify-end
+        a.inline-flex.items-center.rounded-full.border.border-slate-700.bg-slate-900\/70.px-4.py-2.text-sm.font-medium.text-slate-200.transition.hover:border-cyan-400.hover:text-cyan-300 href="https://github.com/peatio/peatio" target="_blank" rel="noopener"
+          span View on GitHub
+
+      .mt-10.grid.gap-12.lg:grid-cols-2.lg:items-center
+        .space-y-8
+          .inline-flex.items-center.gap-2.rounded-full.bg-slate-900\/80.px-3.py-1.text-xs.font-semibold.uppercase.tracking-wide.text-cyan-300
+            span Professional Crypto Exchange Platform
+
+          h1.text-4xl.font-bold.leading-tight.text-white.sm:text-5xl
+            | Trade Digital Assets
+            span.block.text-cyan-300 with Confidence
+
+          p.max-w-xl.text-base.leading-7.text-slate-300
+            | Peatio provides a secure, extensible foundation for operating a modern exchange. Deliver fast execution,
+            | dependable account management, and transparent market operations with a production-ready stack.
+
+          .rounded-2xl.border.border-slate-800.bg-slate-900\/60.p-6.shadow-2xl.shadow-slate-950\/50
+            h2.text-sm.font-semibold.uppercase.tracking-wider.text-slate-400 Supported languages
+            ul.mt-4.space-y-2
+              - Rails.configuration.i18n.available_locales.each do |locale|
+                li.flex.items-center.gap-2.text-slate-200
+                  span.h-1.5.w-1.5.rounded-full.bg-cyan-300
+                  = t(:slogan, locale: locale)
+
+        .rounded-2xl.border.border-slate-800.bg-slate-900\/70.p-8.shadow-2xl.shadow-black\/40
+          h2.text-2xl.font-semibold.text-white Get Started
+          p.mt-2.text-sm.text-slate-400 Access your exchange workspace in seconds.
+
+          .mt-6.space-y-3
+            - unless current_user
+              = link_to t('header.signin'), signin_path, class: 'block w-full rounded-xl bg-cyan-500 px-4 py-3 text-center text-sm font-semibold text-slate-950 transition hover:bg-cyan-400'
+              - if ENV['WEIBO_AUTH'] == 'true'
+                = link_to t('header.login_via_weibo'), '/auth/weibo', class: 'block w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-center text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300'
+              = link_to t('header.signup'), signup_path, class: 'block w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-center text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300'
+            - else
+              = link_to t('header.getstart'), market_path(current_market), class: 'block w-full rounded-xl bg-cyan-500 px-4 py-3 text-center text-sm font-semibold text-slate-950 transition hover:bg-cyan-400'
+              = link_to t('header.funds'), funds_path, class: 'block w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-center text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300'
+              = link_to t('header.settings'), settings_path, class: 'block w-full rounded-xl border border-slate-700 bg-slate-800 px-4 py-3 text-center text-sm font-semibold text-slate-100 transition hover:border-cyan-400 hover:text-cyan-300'

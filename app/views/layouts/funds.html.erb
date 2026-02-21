@@ -11,6 +11,7 @@
     <%= yield(:scripts) if content_for?(:scripts) %>
     <%= render 'shared/html5' %>
     <%= render 'shared/meta' %>
+    <script src="https://cdn.tailwindcss.com"></script>
     <%= csrf_meta_tags %>
   </head>
 

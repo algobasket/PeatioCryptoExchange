@@ -1,15 +1,14 @@
 - unless browser.modern?
-  .alert.alert-danger.alert-dismissible role="alert"
-    .container
-      button.close type="button" data-dismiss="alert"
+  .mx-auto.mt-3.w-full.max-w-6xl.rounded-xl.border.border-amber-500\/40.bg-amber-500\/10.p-4.text-amber-100 role="alert"
+    .flex.items-start.justify-between.gap-4
+      span.font-medium == t('.modern')
+      button.text-amber-200.transition.hover:text-white type="button" onclick="this.closest('[role=\'alert\']').remove()"
         span aria-hidden="true" &times;
         span.sr-only Close
-      span.text-important == t('.modern')
 
-.alert.alert-danger.alert-dismissable.pusher-unavailable.hide role="alert"
-  .container
-    button.close type="button" data-dismiss="alert"
+.pusher-unavailable.hide.mx-auto.mt-3.w-full.max-w-6xl.rounded-xl.border.border-red-500\/40.bg-red-500\/10.p-4.text-red-100 role="alert"
+  .flex.items-start.justify-between.gap-4
+    span.font-medium == t('.pusher_unavailable')
+    button.text-red-200.transition.hover:text-white type="button" onclick="this.closest('[role=\'alert\']').remove()"
       span aria-hidden="true" &times;
       span.sr-only Close
-    span.text-important == t('.pusher_unavailable')
-
