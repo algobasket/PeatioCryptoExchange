@@ -10,6 +10,7 @@ html lang="en"
     = yield(:scripts) if content_for?(:scripts)
     = render 'shared/html5'
     = render 'shared/meta'
+    script src="https://cdn.tailwindcss.com"
     = csrf_meta_tags
 
   body id='#{body_id}' data-lang="#{locale_name}"

@@ -7,7 +7,7 @@ SimpleForm.setup do |config|
   # wrapper, change the order or even add your own to the
   # stack. The options given below are used to wrap the
   # whole input.
-  config.wrappers :default, class: 'form-group',
+  config.wrappers :default, class: 'mb-5',
     hint_class: :field_with_hint, error_class: :field_with_errors do |b|
     ## Extensions enabled by default
     # Any of these extensions can be disabled for a
@@ -43,13 +43,13 @@ SimpleForm.setup do |config|
 
     ## Inputs
     #
-    b.use :label, wrap_with: { tag: :div, class: 'col-xs-8 text-right'}
-    b.use :input, wrap_with: { tag: :div, class: 'col-xs-14'}
-    b.use :error, wrap_with: { tag: :span, class: 'error text-danger col-xs-14 col-xs-offset-8' }
-    b.use :hint,  wrap_with: { tag: :span, class: 'hint col-xs-14 col-xs-offset-8' }
+    b.use :label, wrap_with: { tag: :div, class: 'mb-2 block text-sm font-medium text-slate-700'}
+    b.use :input, wrap_with: { tag: :div, class: 'mt-1'}
+    b.use :error, wrap_with: { tag: :span, class: 'mt-2 block text-sm text-red-600' }
+    b.use :hint,  wrap_with: { tag: :span, class: 'mt-2 block text-sm text-slate-500' }
   end
 
-  config.wrappers :search, class: 'form-group',
+  config.wrappers :search, class: 'mb-5',
     hint_class: :field_with_hint, error_class: :field_with_errors do |b|
     b.use :placeholder
     b.optional :maxlength
@@ -67,7 +67,7 @@ SimpleForm.setup do |config|
   config.default_wrapper = :default
 
   # You can define the class to use on all labels. Default is nil.
-  config.label_class = 'control-label'
+  config.label_class = 'block text-sm font-medium text-slate-700'
 
   # Define the way to render check boxes / radio buttons with labels.
   # Defaults to :nested for bootstrap config.
@@ -76,7 +76,7 @@ SimpleForm.setup do |config|
   config.boolean_style = :nested
 
   # Default class for buttons
-  config.button_class = 'btn'
+  config.button_class = 'inline-flex items-center justify-center rounded-lg bg-cyan-500 px-4 py-2 text-sm font-semibold text-slate-950 hover:bg-cyan-400'
 
   # Method used to tidy up errors. Specify any Rails Array method.
   # :first lists the first message for each field.
@@ -87,7 +87,7 @@ SimpleForm.setup do |config|
   config.error_notification_tag = :div
 
   # CSS class to add for error notification helper.
-  config.error_notification_class = 'alert alert-error'
+  config.error_notification_class = 'mb-4 rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700'
 
   # ID to add for error notification helper.
   # config.error_notification_id = nil
@@ -159,7 +159,7 @@ SimpleForm.setup do |config|
   # config.cache_discovery = !Rails.env.development?
 
   # Default class for inputs
-  config.input_class = 'form-control'
+  config.input_class = 'block w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-cyan-500 focus:outline-none focus:ring-2 focus:ring-cyan-500/30'
 end
 
 module SimpleForm

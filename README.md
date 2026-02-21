@@ -98,7 +98,9 @@ Here're some API clients and/or wrappers:
 
 ### Custom Style
 
-Peatio front-end based Bootstrap 3.0 version and Sass, and you can custom exchange style for your mind.
+Tailwind CSS is loaded in application layouts via `https://cdn.tailwindcss.com`.
+
+Peatio front-end now uses Tailwind CSS for UI styling (loaded via CDN) together with Sass-based project styles, and you can customize exchange style as needed.
 
 * change bootstrap default variables in `vars/_bootstrap.css.scss`
 * change peatio custom default variables in `vars/_basic.css.scss`
@@ -108,6 +110,16 @@ Peatio front-end based Bootstrap 3.0 version and Sass, and you can custom exchan
 
 `vars/_custom.css.scss` can overwrite `vars/_basic.css.scss` defined variables
 `layout/_custom.css.scss` can overwrite `layout/_basic.css.scss` and `layoputs/_header.css.scss` style
+
+
+### Staying Up-to-Date
+
+This repository now includes automated dependency maintenance:
+
+* **Dependabot** for Ruby gems (`bundler`) and GitHub Actions updates.
+* **Dependency Review** workflow to block risky third-party dependency changes in pull requests.
+
+To keep your exchange stack current, merge dependency PRs regularly and run your full test/deployment checks before release.
 
 ### Getting Involved
 
